@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Item Purchased,Category,PurchaseAmount,Location,Size,Color,Season,Review Rating,Subscription,Shipping,Discount,Promo,Previous Purchases,Payment Method,Frequency of Purchase
+CUST0001,32,Male,Sweater,Clothing,144.75,Dallas,XL,Red,Winter,2.9,No,Express,None,No,22,Debit Card,Bi-Weekly
+CUST0002,39,Male,Jacket,Clothing,89.11,Boston,L,Blue,Winter,5.0,No,Next Day,10%,No,16,Bank Transfer,Monthly
+CUST0003,31,Female,T-Shirt,Clothing,81.67,Dallas,M,Black,Winter,4.4,Yes,Next Day,None,No,11,Debit Card,Monthly
+CUST0004,43,Female,Jeans,Clothing,170.32,Houston,XXL,Grey,Summer,3.0,Yes,Standard,40%,No,29,Bank Transfer,Bi-Weekly
+CUST0005,42,Female,Backpack,Accessories,103.02,New York,XS,Pink,Spring,3.1,No,Next Day,None,Yes,12,PayPal,Quarterly
+CUST0006,22,Female,Handbag,Accessories,66.98,San Diego,XS,Grey,Winter,3.0,Yes,Next Day,None,No,8,Bank Transfer,Quarterly
+CUST0007,52,Male,Boots,Footwear,105.84,San Diego,M,Brown,Fall,3.1,No,Express,None,Yes,13,Credit Card,Monthly
+CUST0008,54,Male,Flats,Footwear,146.82,Houston,XL,Pink,Fall,4.4,No,Next Day,30%,No,14,Credit Card,Weekly
+CUST0009,61,Female,Jacket,Clothing,162.81,Seattle,XXL,Black,Spring,4.8,Yes,Express,None,No,27,PayPal,Weekly
+CUST0010,54,Male,Sneakers,Footwear,57.18,Dallas,M,Yellow,Winter,3.9,No,Standard,None,Yes,11,Debit Card,Rarely
+CUST0011,20,Male,Jeans,Clothing,43.69,Phoenix,XS,Black,Fall,3.8,No,Standard,10%,No,22,Cash,Weekly
+CUST0012,55,Female,T-Shirt,Clothing,95.25,Philadelphia,XXL,Black,Spring,4.1,Yes,Express,20%,No,1,Cash,Monthly
+CUST0013,36,Female,Dress,Clothing,123.23,Los Angeles,XS,Brown,Spring,4.2,Yes,Free Shipping,30%,Yes,6,Cash,Bi-Weekly
+CUST0014,66,Female,Windbreaker,Outerwear,299.06,Phoenix,XL,Pink,Spring,3.1,Yes,Free Shipping,20%,No,29,Credit Card,Monthly
+CUST0015,53,Female,Hoodie,Clothing,127.04,Chicago,XS,White,Winter,2.4,Yes,Express,20%,No,24,Credit Card,Bi-Weekly
+CUST0016,38,Female,Skirt,Clothing,139.44,San Diego,M,Black,Winter,4.7,No,Next Day,10%,No,7,Bank Transfer,Monthly
+CUST0017,51,Male,Blazer,Outerwear,175.66,Chicago,L,Blue,Winter,3.6,No,Standard,40%,No,4,Bank Transfer,Rarely
+CUST0018,41,Male,Sunglasses,Accessories,77.09,Chicago,L,Black,Winter,5.0,Yes,Standard,None,Yes,20,PayPal,Bi-Weekly
+CUST0019,20,Female,Flats,Footwear,48.03,Los Angeles,M,Purple,Summer,4.3,Yes,Next Day,20%,No,22,Bank Transfer,Bi-Weekly
+CUST0020,42,Female,Jeans,Clothing,166.12,San Diego,XS,Red,Spring,3.0,Yes,Next Day,20%,No,25,Cash,Rarely
+CUST0021,19,Female,Jeans,Clothing,112.52,Philadelphia,S,Purple,Summer,3.8,Yes,Express,20%,No,30,Cash,Monthly
+CUST0022,61,Female,Scarf,Accessories,105.32,Philadelphia,XL,Red,Summer,3.4,No,Free Shipping,None,Yes,3,Debit Card,Monthly
+CUST0023,36,Female,T-Shirt,Clothing,139.05,San Diego,XS,Green,Spring,3.3,Yes,Standard,None,Yes,29,Credit Card,Monthly
+CUST0024,56,Female,Hoodie,Clothing,108.7,San Diego,M,Purple,Winter,3.4,Yes,Express,None,Yes,21,Bank Transfer,Weekly
+CUST0025,69,Male,Skirt,Clothing,95.87,Houston,XS,Green,Fall,3.8,Yes,Express,10%,Yes,6,Debit Card,Monthly
+CUST0026,22,Male,Sneakers,Footwear,65.14,San Diego,S,Black,Winter,3.1,No,Free Shipping,20%,No,23,PayPal,Monthly
+CUST0027,60,Male,Dress,Clothing,120.15,Los Angeles,XL,Blue,Summer,4.2,No,Standard,20%,No,10,Debit Card,Weekly
+CUST0028,24,Female,Handbag,Accessories,115.47,Dallas,L,Brown,Spring,4.6,No,Next Day,None,No,17,PayPal,Rarely
+CUST0029,66,Male,Jeans,Clothing,112.89,New York,XL,Pink,Spring,3.9,Yes,Express,30%,No,11,Credit Card,Monthly
+CUST0030,53,Female,Coat,Outerwear,289.64,Seattle,L,Red,Fall,4.6,No,Next Day,None,Yes,18,Credit Card,Monthly
+CUST0031,40,Female,Sweater,Clothing,146.34,Boston,XL,Blue,Fall,3.8,No,Free Shipping,None,Yes,6,Debit Card,Quarterly
+CUST0032,24,Female,Watch,Accessories,116.64,Seattle,S,Purple,Summer,3.1,Yes,Standard,None,No,9,Bank Transfer,Monthly
+CUST0033,62,Female,Handbag,Accessories,65.78,Philadelphia,M,Purple,Summer,3.7,Yes,Express,10%,Yes,11,Cash,Monthly
+CUST0034,58,Male,Sunglasses,Accessories,123.18,Seattle,L,Black,Spring,5.0,No,Express,None,No,12,Bank Transfer,Rarely
+CUST0035,33,Female,Sweater,Clothing,167.94,Houston,XS,White,Fall,3.7,No,Express,None,No,18,PayPal,Rarely
+CUST0036,27,Female,Jacket,Clothing,29.26,Dallas,L,Green,Winter,4.0,Yes,Next Day,10%,No,5,Debit Card,Bi-Weekly
+CUST0037,44,Female,Jacket,Clothing,25.17,Chicago,XL,Yellow,Summer,3.3,No,Standard,10%,No,12,Debit Card,Monthly
+CUST0038,50,Female,Hoodie,Clothing,149.69,New York,M,Green,Summer,2.6,No,Express,20%,No,14,Credit Card,Monthly
+CUST0039,38,Female,T-Shirt,Clothing,32.06,Philadelphia,M,Green,Fall,4.1,No,Standard,20%,No,4,Bank Transfer,Monthly
+CUST0040,62,Male,Dress,Clothing,53.16,New York,S,Grey,Fall,5.0,No,Express,10%,No,0,Debit Card,Quarterly
+CUST0041,47,Female,Loafers,Footwear,181.49,Phoenix,XL,White,Fall,3.4,Yes,Express,10%,No,22,Debit Card,Monthly
+CUST0042,68,Male,Dress,Clothing,136.22,Philadelphia,XS,Grey,Fall,5.0,No,Free Shipping,10%,No,24,Bank Transfer,Bi-Weekly
+CUST0043,34,Female,Raincoat,Outerwear,66.56,Chicago,XS,Pink,Fall,3.9,No,Free Shipping,None,No,1,Cash,Monthly
+CUST0044,44,Male,Blazer,Outerwear,293.28,Boston,M,Blue,Spring,3.4,Yes,Next Day,None,Yes,28,Credit Card,Monthly
+CUST0045,51,Male,Skirt,Clothing,100.55,Seattle,XXL,Grey,Summer,3.7,Yes,Next Day,None,Yes,24,Credit Card,Weekly
+CUST0046,32,Male,Heels,Footwear,103.54,Boston,L,Pink,Summer,3.8,No,Standard,None,Yes,21,PayPal,Quarterly
+CUST0047,60,Male,Raincoat,Outerwear,57.62,Seattle,XL,Purple,Fall,3.5,Yes,Free Shipping,None,No,18,Credit Card,Rarely
+CUST0048,27,Male,Heels,Footwear,155.03,Houston,XXL,White,Fall,4.5,No,Standard,10%,No,17,Bank Transfer,Monthly
+CUST0049,62,Female,Sandals,Footwear,147.07,Philadelphia,L,Grey,Fall,3.5,No,Free Shipping,10%,No,5,Cash,Rarely
+CUST0050,45,Male,Windbreaker,Outerwear,266.38,Philadelphia,XS,Grey,Summer,3.6,No,Standard,20%,No,5,Debit Card,Bi-Weekly
+CUST0051,43,Female,Watch,Accessories,118.09,New York,S,Yellow,Spring,4.3,No,Free Shipping,10%,No,11,Credit Card,Monthly
+CUST0052,40,Female,Sweater,Clothing,178.39,Dallas,S,Red,Spring,3.2,Yes,Standard,20%,No,12,PayPal,Monthly
+CUST0053,61,Female,Raincoat,Outerwear,81.07,Chicago,M,Black,Winter,3.9,No,Next Day,30%,Yes,11,Credit Card,Quarterly
+CUST0054,38,Male,Belt,Accessories,133.11,Boston,XXL,Red,Spring,3.9,No,Standard,20%,No,26,PayPal,Monthly
+CUST0055,42,Male,Sneakers,Footwear,201.42,Dallas,M,Pink,Fall,4.4,No,Free Shipping,10%,Yes,7,Cash,Quarterly
+CUST0056,47,Male,Heels,Footwear,141.03,Philadelphia,XS,Black,Spring,2.1,Yes,Free Shipping,None,Yes,28,Debit Card,Quarterly
+CUST0057,55,Male,Handbag,Accessories,31.04,Houston,L,White,Fall,4.8,No,Free Shipping,10%,No,4,PayPal,Monthly
+CUST0058,57,Female,Jeans,Clothing,56.38,Boston,XXL,Purple,Spring,3.5,Yes,Express,10%,Yes,22,Cash,Monthly
+CUST0059,21,Male,Hoodie,Clothing,167.6,Boston,XS,Yellow,Fall,3.2,No,Next Day,30%,No,27,Credit Card,Weekly
+CUST0060,53,Female,Raincoat,Outerwear,259.37,Philadelphia,M,Grey,Fall,4.2,No,Standard,20%,Yes,0,Credit Card,Weekly
+CUST0061,69,Male,Shorts,Clothing,158.16,Los Angeles,M,Black,Winter,3.8,Yes,Next Day,30%,Yes,26,Credit Card,Monthly
+CUST0062,50,Male,Hoodie,Clothing,144.88,Philadelphia,S,White,Spring,4.4,No,Standard,40%,Yes,10,Cash,Monthly
+CUST0063,18,Female,Shorts,Clothing,30.73,New York,XL,Grey,Fall,3.2,Yes,Express,20%,No,18,Cash,Monthly
+CUST0064,21,Male,Boots,Footwear,96.86,San Diego,M,Purple,Summer,4.3,No,Express,None,Yes,22,Cash,Quarterly
+CUST0065,20,Female,Handbag,Accessories,43.44,Phoenix,M,Blue,Spring,5.0,No,Next Day,None,Yes,24,PayPal,Rarely
+CUST0066,38,Female,Raincoat,Outerwear,123.29,Los Angeles,S,Pink,Spring,3.9,Yes,Free Shipping,None,No,15,Bank Transfer,Monthly
+CUST0067,22,Female,Blazer,Outerwear,133.97,Houston,XL,Green,Summer,3.5,No,Standard,None,Yes,22,Cash,Rarely
+CUST0068,27,Female,Handbag,Accessories,85.68,San Diego,XS,White,Fall,4.6,No,Standard,10%,No,13,Credit Card,Bi-Weekly
+CUST0069,43,Female,Scarf,Accessories,145.58,Los Angeles,XL,Purple,Winter,4.6,No,Express,10%,No,5,Debit Card,Quarterly
+CUST0070,38,Male,Skirt,Clothing,164.0,Dallas,S,Brown,Spring,4.7,Yes,Standard,30%,No,5,Debit Card,Monthly
+CUST0071,60,Male,Skirt,Clothing,33.25,Dallas,M,Red,Spring,2.7,No,Next Day,10%,No,20,Bank Transfer,Monthly
+CUST0072,37,Male,Shorts,Clothing,115.21,New York,XXL,White,Spring,4.2,No,Standard,None,No,10,Credit Card,Monthly
+CUST0073,42,Male,Sandals,Footwear,49.05,New York,XL,Black,Summer,3.6,No,Standard,None,No,26,PayPal,Quarterly
+CUST0074,33,Female,Sunglasses,Accessories,157.18,Seattle,L,Purple,Spring,3.3,No,Free Shipping,None,No,17,Credit Card,Bi-Weekly
+CUST0075,24,Female,Sandals,Footwear,57.3,Los Angeles,M,Pink,Spring,3.2,No,Express,None,No,7,PayPal,Quarterly
+CUST0076,41,Male,Shorts,Clothing,109.71,Los Angeles,M,Green,Fall,4.3,Yes,Free Shipping,None,No,12,Credit Card,Monthly
+CUST0077,35,Male,Loafers,Footwear,198.91,Chicago,S,White,Summer,2.8,Yes,Standard,10%,No,22,PayPal,Weekly
+CUST0078,66,Male,Sweater,Clothing,26.02,Seattle,L,Brown,Summer,4.2,Yes,Free Shipping,None,No,11,Credit Card,Weekly
+CUST0079,67,Female,Skirt,Clothing,134.49,Seattle,XS,Brown,Winter,2.6,Yes,Free Shipping,30%,No,20,PayPal,Monthly
+CUST0080,63,Female,Blazer,Outerwear,166.85,Los Angeles,XS,Pink,Winter,4.3,Yes,Next Day,30%,No,12,Bank Transfer,Quarterly
+CUST0081,51,Male,Dress,Clothing,55.28,Phoenix,XL,Yellow,Fall,4.2,Yes,Standard,30%,No,5,Bank Transfer,Bi-Weekly
+CUST0082,34,Female,Sandals,Footwear,201.03,Philadelphia,XL,Grey,Spring,3.3,No,Standard,30%,No,2,PayPal,Quarterly
+CUST0083,46,Male,Jacket,Clothing,27.1,Los Angeles,L,Yellow,Winter,4.2,No,Next Day,10%,Yes,10,Cash,Weekly
+CUST0084,34,Female,Coat,Outerwear,173.79,Chicago,S,Blue,Winter,3.6,No,Next Day,10%,Yes,29,PayPal,Quarterly
+CUST0085,65,Male,Dress,Clothing,73.44,San Diego,XL,Purple,Spring,4.0,Yes,Free Shipping,None,No,27,Bank Transfer,Quarterly
+CUST0086,19,Female,Jacket,Clothing,141.06,San Diego,S,Black,Spring,3.3,No,Free Shipping,None,Yes,11,Bank Transfer,Quarterly
+CUST0087,24,Female,Skirt,Clothing,89.16,Phoenix,XL,Yellow,Winter,3.5,Yes,Next Day,None,Yes,14,Credit Card,Quarterly
+CUST0088,18,Female,Watch,Accessories,105.03,Los Angeles,S,Red,Fall,4.6,Yes,Standard,None,Yes,26,Credit Card,Monthly
+CUST0089,28,Female,Boots,Footwear,35.19,New York,M,Brown,Fall,3.7,No,Standard,20%,Yes,3,Debit Card,Quarterly
+CUST0090,44,Male,Dress,Clothing,172.14,Dallas,L,Green,Fall,2.9,No,Free Shipping,40%,No,11,Bank Transfer,Rarely
+CUST0091,55,Male,Jacket,Clothing,139.33,Los Angeles,L,Grey,Winter,4.1,Yes,Standard,None,Yes,23,PayPal,Quarterly
+CUST0092,46,Female,Belt,Accessories,57.65,Boston,M,Red,Summer,3.6,No,Express,None,Yes,23,Cash,Bi-Weekly
+CUST0093,39,Female,Sneakers,Footwear,95.3,New York,XL,White,Summer,2.7,No,Express,40%,No,12,PayPal,Quarterly
+CUST0094,58,Female,Watch,Accessories,120.02,Dallas,XS,Black,Winter,5.0,No,Next Day,None,No,18,Cash,Quarterly
+CUST0095,50,Female,Sandals,Footwear,133.83,Los Angeles,XXL,Pink,Summer,3.4,No,Express,20%,Yes,6,Cash,Weekly
+CUST0096,23,Male,Boots,Footwear,208.2,Seattle,S,Grey,Winter,4.6,No,Express,20%,No,6,PayPal,Rarely
+CUST0097,39,Female,Sandals,Footwear,123.97,San Diego,L,Brown,Spring,5.0,No,Free Shipping,40%,Yes,11,Bank Transfer,Quarterly
+CUST0098,61,Female,Boots,Footwear,38.86,Philadelphia,XL,Grey,Spring,3.5,No,Next Day,None,No,18,Bank Transfer,Monthly
+CUST0099,29,Male,Shorts,Clothing,158.92,Phoenix,L,Red,Winter,4.5,Yes,Standard,10%,No,19,Debit Card,Quarterly
+CUST0100,32,Female,Sandals,Footwear,181.7,Boston,M,Blue,Summer,4.5,No,Next Day,None,No,6,Bank Transfer,Quarterly
+CUST0101,53,Female,Hoodie,Clothing,116.3,San Diego,XL,Green,Summer,2.8,No,Express,None,No,1,Credit Card,Monthly
+CUST0102,42,Male,T-Shirt,Clothing,83.85,Phoenix,XL,Black,Winter,4.9,No,Next Day,40%,No,2,PayPal,Rarely
+CUST0103,27,Male,Hoodie,Clothing,73.92,Dallas,M,Black,Spring,3.6,Yes,Next Day,None,No,19,Bank Transfer,Monthly
+CUST0104,45,Male,Scarf,Accessories,140.9,Houston,S,White,Spring,4.7,No,Next Day,None,No,11,PayPal,Monthly
+CUST0105,50,Male,Coat,Outerwear,196.17,Dallas,M,White,Spring,3.1,No,Standard,10%,Yes,17,PayPal,Monthly
+CUST0106,40,Female,Heels,Footwear,59.55,Los Angeles,S,Pink,Winter,5.0,No,Standard,20%,Yes,19,Bank Transfer,Rarely
+CUST0107,43,Male,T-Shirt,Clothing,129.32,Dallas,XS,Grey,Spring,5.0,No,Standard,10%,No,7,Bank Transfer,Monthly
+CUST0108,45,Female,Flats,Footwear,219.89,Seattle,XS,Brown,Spring,3.8,No,Standard,None,Yes,5,PayPal,Quarterly
+CUST0109,21,Female,Skirt,Clothing,90.11,Dallas,XXL,Yellow,Fall,4.4,Yes,Free Shipping,10%,No,0,Bank Transfer,Monthly
+CUST0110,66,Female,Sneakers,Footwear,104.05,Philadelphia,S,Blue,Winter,3.5,No,Express,20%,No,11,Bank Transfer,Quarterly
+CUST0111,45,Male,Flats,Footwear,185.55,San Diego,XXL,White,Winter,2.6,No,Standard,20%,No,3,Bank Transfer,Rarely
+CUST0112,68,Male,Dress,Clothing,51.54,Philadelphia,M,White,Summer,3.9,No,Next Day,10%,No,12,Bank Transfer,Quarterly
+CUST0113,53,Female,Sandals,Footwear,167.49,San Diego,L,Purple,Fall,3.3,No,Free Shipping,None,No,24,Bank Transfer,Bi-Weekly
+CUST0114,24,Female,Windbreaker,Outerwear,187.56,Boston,M,Pink,Summer,2.6,No,Express,10%,No,23,Debit Card,Bi-Weekly
+CUST0115,25,Female,Jeans,Clothing,76.55,Dallas,M,Red,Winter,4.4,No,Standard,None,No,17,Credit Card,Monthly
+CUST0116,52,Female,T-Shirt,Clothing,158.05,Phoenix,XS,Yellow,Winter,3.3,Yes,Free Shipping,10%,No,22,Debit Card,Bi-Weekly
+CUST0117,42,Female,Sneakers,Footwear,85.79,Philadelphia,XL,Pink,Spring,5.0,No,Free Shipping,None,No,9,Cash,Quarterly
+CUST0118,63,Female,Loafers,Footwear,50.85,Houston,M,Brown,Winter,4.5,Yes,Express,None,Yes,0,Credit Card,Quarterly
+CUST0119,44,Female,Heels,Footwear,134.9,Boston,M,Yellow,Summer,4.0,Yes,Next Day,20%,No,21,Debit Card,Monthly
+CUST0120,61,Female,Skirt,Clothing,173.22,Seattle,S,Brown,Fall,4.4,No,Standard,None,No,12,PayPal,Rarely
+CUST0121,68,Female,Jacket,Clothing,23.2,Seattle,XXL,Green,Winter,4.4,No,Express,20%,No,0,Bank Transfer,Quarterly
+CUST0122,31,Female,Backpack,Accessories,58.95,Los Angeles,XS,Green,Summer,4.4,No,Standard,10%,No,17,Debit Card,Monthly
+CUST0123,39,Male,Boots,Footwear,141.3,New York,S,Yellow,Summer,2.3,No,Express,30%,No,11,PayPal,Quarterly
+CUST0124,32,Male,T-Shirt,Clothing,23.66,Los Angeles,M,White,Summer,4.7,No,Next Day,30%,No,26,Bank Transfer,Quarterly
+CUST0125,18,Female,Raincoat,Outerwear,274.57,Seattle,XXL,Brown,Spring,3.4,Yes,Next Day,10%,No,2,Cash,Weekly
+CUST0126,30,Male,Scarf,Accessories,88.39,Philadelphia,XL,White,Winter,4.5,Yes,Free Shipping,None,No,17,Debit Card,Bi-Weekly
+CUST0127,48,Female,Sandals,Footwear,90.01,Seattle,L,Blue,Fall,2.9,No,Next Day,10%,No,20,Credit Card,Bi-Weekly
+CUST0128,69,Female,Sweater,Clothing,104.33,Los Angeles,XL,Red,Fall,3.6,No,Standard,None,No,6,Bank Transfer,Monthly
+CUST0129,19,Female,Blazer,Outerwear,170.34,Phoenix,XS,Green,Summer,3.4,Yes,Standard,None,Yes,6,Cash,Monthly
+CUST0130,38,Female,Dress,Clothing,62.56,Boston,XXL,Red,Summer,4.1,Yes,Next Day,20%,No,20,Bank Transfer,Monthly
+CUST0131,59,Male,Sweater,Clothing,41.3,New York,S,Black,Summer,4.0,No,Next Day,30%,No,8,PayPal,Monthly
+CUST0132,25,Male,Skirt,Clothing,118.23,San Diego,XL,Blue,Spring,3.3,No,Standard,None,Yes,27,Credit Card,Quarterly
+CUST0133,41,Male,Boots,Footwear,37.24,Houston,M,Pink,Fall,2.8,Yes,Free Shipping,None,No,10,Debit Card,Weekly
+CUST0134,34,Male,Jacket,Clothing,145.2,Seattle,XS,White,Fall,3.1,Yes,Standard,None,Yes,7,Credit Card,Monthly
+CUST0135,67,Female,Flats,Footwear,182.76,Los Angeles,M,Purple,Fall,4.9,Yes,Express,None,No,30,PayPal,Monthly
+CUST0136,39,Female,Jeans,Clothing,58.51,Chicago,XXL,Black,Winter,5.0,No,Express,20%,No,20,Credit Card,Bi-Weekly
+CUST0137,30,Female,Loafers,Footwear,120.2,San Diego,L,Yellow,Summer,4.2,No,Express,10%,No,6,Debit Card,Bi-Weekly
+CUST0138,67,Male,Belt,Accessories,85.82,Dallas,L,Yellow,Fall,4.4,No,Standard,10%,Yes,22,PayPal,Bi-Weekly
+CUST0139,64,Male,Jacket,Clothing,141.78,Dallas,XS,Green,Fall,3.7,No,Next Day,None,No,15,Debit Card,Bi-Weekly
+CUST0140,56,Male,Flats,Footwear,69.78,Seattle,L,Red,Summer,2.9,No,Express,None,No,8,Credit Card,Rarely
+CUST0141,33,Male,Dress,Clothing,154.72,Houston,XL,Red,Winter,4.0,No,Express,10%,No,25,Bank Transfer,Weekly
+CUST0142,55,Female,Jeans,Clothing,76.88,Houston,XS,Pink,Fall,1.3,No,Express,20%,Yes,24,Debit Card,Monthly
+CUST0143,41,Female,Flats,Footwear,145.88,New York,XXL,Blue,Summer,3.6,No,Next Day,20%,No,18,Cash,Monthly
+CUST0144,47,Male,Jacket,Clothing,137.68,Los Angeles,L,Black,Fall,3.8,No,Free Shipping,40%,No,0,Bank Transfer,Bi-Weekly
+CUST0145,65,Male,Heels,Footwear,56.89,San Diego,XS,Purple,Winter,4.7,Yes,Next Day,None,Yes,10,Bank Transfer,Quarterly
+CUST0146,62,Female,Flats,Footwear,130.84,Chicago,XL,Blue,Summer,3.6,No,Express,30%,No,12,Bank Transfer,Monthly
+CUST0147,22,Female,Hoodie,Clothing,41.36,Chicago,XS,Grey,Spring,4.0,Yes,Standard,None,No,17,Cash,Monthly
+CUST0148,53,Male,Coat,Outerwear,67.24,Boston,XXL,Yellow,Winter,3.5,Yes,Free Shipping,30%,Yes,11,Debit Card,Quarterly
+CUST0149,62,Female,T-Shirt,Clothing,25.38,San Diego,XXL,White,Winter,3.9,No,Next Day,None,No,0,Bank Transfer,Weekly
+CUST0150,31,Male,Hoodie,Clothing,99.12,Los Angeles,XL,Blue,Fall,3.0,Yes,Next Day,None,Yes,20,Bank Transfer,Monthly
+CUST0151,50,Female,T-Shirt,Clothing,135.2,San Diego,XS,Black,Winter,3.2,Yes,Express,None,No,21,Credit Card,Monthly
+CUST0152,51,Male,Skirt,Clothing,88.58,Los Angeles,XXL,Brown,Summer,3.7,Yes,Next Day,None,No,4,Cash,Weekly
+CUST0153,27,Male,Heels,Footwear,44.61,Phoenix,L,Purple,Fall,3.3,No,Next Day,10%,Yes,6,Bank Transfer,Monthly
+CUST0154,44,Male,Skirt,Clothing,92.2,Boston,XS,White,Spring,4.3,Yes,Free Shipping,30%,No,25,Cash,Quarterly
+CUST0155,42,Male,Shorts,Clothing,80.87,Seattle,L,Green,Spring,3.9,Yes,Standard,None,No,23,Debit Card,Bi-Weekly
+CUST0156,19,Male,Heels,Footwear,148.49,Chicago,M,White,Fall,2.7,No,Standard,10%,Yes,12,Bank Transfer,Quarterly
+CUST0157,21,Female,Sunglasses,Accessories,104.22,New York,XL,Pink,Spring,3.8,No,Standard,None,No,15,Debit Card,Monthly
+CUST0158,22,Male,Dress,Clothing,34.88,Seattle,L,White,Summer,4.9,Yes,Standard,40%,Yes,3,Credit Card,Quarterly
+CUST0159,61,Male,Boots,Footwear,122.17,Dallas,S,Yellow,Fall,3.7,No,Express,None,No,20,Debit Card,Weekly
+CUST0160,51,Male,Jacket,Clothing,138.35,Boston,M,Brown,Fall,4.8,No,Express,20%,No,17,PayPal,Monthly
+CUST0161,51,Female,Hoodie,Clothing,70.39,Dallas,M,Red,Summer,4.2,No,Express,None,Yes,0,Credit Card,Monthly
+CUST0162,53,Female,Flats,Footwear,78.06,Chicago,L,White,Fall,3.0,No,Free Shipping,None,Yes,8,Debit Card,Monthly
+CUST0163,70,Female,Jacket,Clothing,40.62,Houston,XS,Brown,Winter,4.8,No,Express,40%,Yes,26,Credit Card,Bi-Weekly
+CUST0164,36,Male,Raincoat,Outerwear,259.87,San Diego,XXL,Brown,Fall,3.5,No,Standard,None,No,12,Bank Transfer,Monthly
+CUST0165,26,Female,Skirt,Clothing,110.75,Chicago,XS,Brown,Winter,4.4,Yes,Next Day,30%,No,20,Credit Card,Rarely
+CUST0166,66,Female,Loafers,Footwear,41.41,Los Angeles,XL,Green,Spring,3.4,Yes,Standard,10%,Yes,2,Bank Transfer,Monthly
+CUST0167,34,Female,Dress,Clothing,160.64,Dallas,L,Yellow,Winter,4.3,No,Free Shipping,10%,No,14,Bank Transfer,Bi-Weekly
+CUST0168,37,Male,Raincoat,Outerwear,225.66,San Diego,L,Red,Summer,5.0,No,Free Shipping,20%,No,3,Debit Card,Monthly
+CUST0169,40,Female,Windbreaker,Outerwear,67.73,Philadelphia,S,Grey,Fall,3.2,Yes,Standard,10%,No,11,PayPal,Bi-Weekly
+CUST0170,37,Female,Loafers,Footwear,144.31,Philadelphia,XS,Black,Summer,2.8,No,Next Day,None,Yes,28,Bank Transfer,Monthly
+CUST0171,60,Female,Jeans,Clothing,169.08,New York,XL,Blue,Fall,3.2,No,Standard,None,No,8,PayPal,Monthly
+CUST0172,18,Female,Coat,Outerwear,155.46,Dallas,XL,Green,Spring,3.7,No,Next Day,None,No,11,Cash,Quarterly
+CUST0173,63,Male,Dress,Clothing,134.81,New York,L,White,Spring,3.5,Yes,Next Day,10%,No,3,Cash,Weekly
+CUST0174,19,Male,Shorts,Clothing,123.38,Los Angeles,M,Purple,Summer,4.2,No,Express,None,Yes,9,PayPal,Quarterly
+CUST0175,46,Female,Jeans,Clothing,152.64,New York,XL,Purple,Spring,4.0,Yes,Standard,None,No,10,Credit Card,Weekly
+CUST0176,35,Female,Dress,Clothing,127.67,Seattle,XL,Yellow,Summer,5.0,No,Next Day,20%,No,22,Cash,Monthly
+CUST0177,65,Female,Belt,Accessories,68.82,Dallas,S,Grey,Winter,5.0,No,Next Day,None,No,0,Cash,Monthly
+CUST0178,45,Male,Sandals,Footwear,98.01,New York,XS,Yellow,Winter,4.4,No,Express,30%,No,30,Credit Card,Weekly
+CUST0179,22,Female,Jeans,Clothing,24.41,Boston,M,Yellow,Fall,4.2,No,Express,None,Yes,3,Bank Transfer,Monthly
+CUST0180,54,Female,Sweater,Clothing,79.97,San Diego,XXL,Red,Summer,3.8,No,Standard,None,No,2,Cash,Weekly
+CUST0181,21,Male,Raincoat,Outerwear,88.54,Phoenix,M,Pink,Fall,5.0,Yes,Express,None,Yes,21,Credit Card,Monthly
+CUST0182,61,Male,Loafers,Footwear,138.18,New York,L,Grey,Spring,5.0,No,Free Shipping,20%,Yes,18,Bank Transfer,Rarely
+CUST0183,39,Male,Windbreaker,Outerwear,248.13,Phoenix,XS,Green,Winter,5.0,No,Free Shipping,40%,No,7,PayPal,Monthly
+CUST0184,38,Female,Skirt,Clothing,146.48,Phoenix,XS,Grey,Winter,3.6,No,Express,30%,Yes,27,PayPal,Monthly
+CUST0185,49,Female,Jacket,Clothing,114.2,Dallas,M,Brown,Fall,2.7,No,Free Shipping,30%,No,0,Cash,Quarterly
+CUST0186,24,Male,Scarf,Accessories,84.09,Seattle,L,Black,Spring,3.2,No,Next Day,None,Yes,30,PayPal,Monthly
+CUST0187,48,Male,Flats,Footwear,38.54,Chicago,XXL,Purple,Summer,5.0,No,Standard,None,No,10,PayPal,Bi-Weekly
+CUST0188,52,Male,Blazer,Outerwear,100.16,New York,XXL,Pink,Fall,3.6,No,Standard,10%,Yes,25,Bank Transfer,Quarterly
+CUST0189,18,Female,Handbag,Accessories,116.5,Houston,XXL,Yellow,Fall,3.6,Yes,Free Shipping,10%,No,1,Debit Card,Weekly
+CUST0190,33,Female,Skirt,Clothing,32.3,Los Angeles,S,Yellow,Winter,3.1,Yes,Express,None,Yes,22,Cash,Quarterly
+CUST0191,31,Female,Shorts,Clothing,84.82,San Diego,XS,Black,Spring,3.6,Yes,Standard,10%,No,20,Credit Card,Quarterly
+CUST0192,40,Female,Shorts,Clothing,91.9,Houston,XXL,Red,Winter,4.3,No,Express,10%,Yes,9,Bank Transfer,Quarterly
+CUST0193,30,Male,Heels,Footwear,178.44,Los Angeles,S,Grey,Summer,3.8,No,Standard,20%,Yes,13,Credit Card,Monthly
+CUST0194,39,Female,Hoodie,Clothing,163.32,Los Angeles,XS,Yellow,Spring,2.5,No,Next Day,None,Yes,23,Credit Card,Bi-Weekly
+CUST0195,61,Female,Sandals,Footwear,180.95,Philadelphia,L,Blue,Spring,3.7,Yes,Free Shipping,10%,No,16,PayPal,Quarterly
+CUST0196,38,Male,Loafers,Footwear,158.28,Dallas,L,Black,Winter,4.5,No,Express,None,No,0,PayPal,Monthly
+CUST0197,65,Male,Sweater,Clothing,100.06,Chicago,L,Brown,Winter,2.7,No,Standard,None,No,17,Debit Card,Bi-Weekly
+CUST0198,39,Male,Boots,Footwear,182.3,Los Angeles,XS,Grey,Winter,2.1,No,Express,20%,No,22,Cash,Monthly
+CUST0199,18,Female,Watch,Accessories,27.37,Philadelphia,XXL,Purple,Spring,3.9,Yes,Standard,20%,Yes,16,Debit Card,Weekly
+CUST0200,52,Male,Jeans,Clothing,137.79,New York,L,Yellow,Winter,3.6,Yes,Free Shipping,30%,Yes,5,Debit Card,Monthly
+CUST0201,33,Male,Jacket,Clothing,55.17,Seattle,S,Green,Summer,3.2,No,Next Day,None,No,14,Debit Card,Bi-Weekly
+CUST0202,33,Female,Heels,Footwear,90.46,San Diego,L,Blue,Spring,3.9,No,Next Day,20%,No,3,Bank Transfer,Monthly
+CUST0203,46,Male,Dress,Clothing,169.98,San Diego,L,Purple,Winter,3.3,No,Standard,None,No,27,Cash,Monthly
+CUST0204,39,Male,Windbreaker,Outerwear,101.25,San Diego,S,Brown,Summer,5.0,No,Free Shipping,10%,Yes,25,Bank Transfer,Monthly
+CUST0205,45,Male,Blazer,Outerwear,114.98,Philadelphia,L,Brown,Fall,4.3,Yes,Express,None,Yes,23,Bank Transfer,Monthly
+CUST0206,50,Female,Hoodie,Clothing,68.31,Boston,XL,Green,Summer,3.6,Yes,Express,20%,No,1,Bank Transfer,Monthly
+CUST0207,46,Female,Flats,Footwear,73.7,Seattle,L,Blue,Winter,3.5,No,Next Day,40%,No,5,Cash,Bi-Weekly
+CUST0208,40,Male,Dress,Clothing,54.23,Boston,XXL,Red,Winter,4.2,No,Free Shipping,None,No,17,PayPal,Monthly
+CUST0209,25,Male,Blazer,Outerwear,263.56,New York,M,Pink,Spring,3.3,Yes,Next Day,20%,No,29,Cash,Weekly
+CUST0210,45,Female,Sweater,Clothing,108.32,Phoenix,S,Grey,Summer,4.6,No,Next Day,None,No,30,Credit Card,Monthly
+CUST0211,27,Female,Coat,Outerwear,122.22,New York,XS,Pink,Spring,4.4,No,Next Day,20%,No,18,Credit Card,Monthly
+CUST0212,35,Male,T-Shirt,Clothing,60.16,Phoenix,M,White,Winter,3.7,No,Standard,None,No,19,Cash,Weekly
+CUST0213,58,Male,Handbag,Accessories,20.22,Seattle,XL,Red,Spring,4.0,No,Next Day,10%,No,12,Debit Card,Quarterly
+CUST0214,64,Male,Shorts,Clothing,171.43,Phoenix,XL,Red,Fall,3.7,No,Free Shipping,10%,Yes,7,Credit Card,Bi-Weekly
+CUST0215,45,Female,Flats,Footwear,48.16,Dallas,XL,Red,Summer,1.8,No,Next Day,20%,Yes,23,Credit Card,Monthly
+CUST0216,40,Male,Jacket,Clothing,26.01,Phoenix,XXL,Brown,Spring,3.9,No,Next Day,10%,Yes,29,Debit Card,Bi-Weekly
+CUST0217,37,Male,Sweater,Clothing,161.24,Seattle,XL,Pink,Summer,4.6,Yes,Express,20%,Yes,3,PayPal,Bi-Weekly
+CUST0218,64,Female,Dress,Clothing,84.92,Dallas,XXL,Green,Summer,3.1,No,Standard,None,No,15,Debit Card,Quarterly
+CUST0219,26,Male,Shorts,Clothing,172.36,Phoenix,XL,Yellow,Spring,2.6,No,Standard,None,No,24,Debit Card,Quarterly
+CUST0220,23,Male,Belt,Accessories,32.69,San Diego,XL,Brown,Spring,4.4,Yes,Standard,None,Yes,25,Cash,Rarely
+CUST0221,29,Female,Handbag,Accessories,96.5,Boston,L,Red,Summer,3.8,Yes,Free Shipping,30%,Yes,2,Debit Card,Monthly
+CUST0222,41,Male,Scarf,Accessories,87.66,Seattle,XS,Black,Winter,4.3,Yes,Standard,None,No,5,Bank Transfer,Rarely
+CUST0223,29,Female,Belt,Accessories,34.1,Philadelphia,M,Brown,Spring,3.0,Yes,Express,10%,No,23,PayPal,Monthly
+CUST0224,50,Male,Hoodie,Clothing,23.17,Phoenix,M,Black,Summer,3.0,Yes,Standard,30%,No,20,PayPal,Monthly
+CUST0225,36,Female,T-Shirt,Clothing,73.19,New York,XL,Red,Summer,3.7,No,Free Shipping,None,No,3,Bank Transfer,Weekly
+CUST0226,27,Male,Jeans,Clothing,176.86,Boston,XS,White,Summer,3.4,No,Next Day,None,No,25,Debit Card,Monthly
+CUST0227,29,Male,T-Shirt,Clothing,62.28,Los Angeles,L,Grey,Summer,3.7,No,Express,10%,Yes,15,Bank Transfer,Rarely
+CUST0228,37,Female,T-Shirt,Clothing,93.28,Los Angeles,XXL,Green,Summer,2.7,No,Express,None,No,2,Credit Card,Monthly
+CUST0229,53,Male,Boots,Footwear,145.57,Houston,S,Brown,Spring,3.6,No,Standard,None,No,21,Credit Card,Monthly
+CUST0230,26,Male,Windbreaker,Outerwear,204.31,Philadelphia,XS,Purple,Summer,4.0,No,Express,None,No,5,Credit Card,Monthly
+CUST0231,26,Male,Sweater,Clothing,21.45,Seattle,S,White,Winter,5.0,Yes,Free Shipping,None,No,24,Cash,Weekly
+CUST0232,63,Male,T-Shirt,Clothing,32.34,Dallas,M,White,Fall,4.8,Yes,Standard,20%,Yes,1,Debit Card,Rarely
+CUST0233,30,Female,Jacket,Clothing,52.05,Dallas,M,Purple,Spring,4.9,No,Express,20%,Yes,23,Cash,Monthly
+CUST0234,35,Female,Coat,Outerwear,246.84,Boston,M,Yellow,Summer,4.3,No,Express,10%,No,1,Cash,Monthly
+CUST0235,30,Female,Boots,Footwear,144.19,Houston,L,Black,Fall,3.2,No,Express,20%,Yes,23,Bank Transfer,Bi-Weekly
+CUST0236,45,Male,Jeans,Clothing,139.48,Houston,M,Blue,Winter,2.0,Yes,Next Day,30%,No,2,Debit Card,Monthly
+CUST0237,69,Female,Shorts,Clothing,146.29,Houston,XXL,Purple,Spring,4.2,No,Free Shipping,None,Yes,4,Bank Transfer,Monthly
+CUST0238,56,Female,Boots,Footwear,131.5,Boston,XS,Pink,Winter,3.6,No,Standard,None,Yes,4,Bank Transfer,Monthly
+CUST0239,64,Female,Scarf,Accessories,32.04,Philadelphia,XXL,Black,Summer,4.5,Yes,Free Shipping,20%,No,17,Debit Card,Monthly
+CUST0240,51,Male,Jacket,Clothing,53.9,San Diego,XXL,Blue,Summer,4.5,Yes,Next Day,10%,No,10,Credit Card,Monthly
+CUST0241,20,Female,Dress,Clothing,85.9,Chicago,XL,Yellow,Spring,3.2,No,Next Day,30%,No,1,Bank Transfer,Weekly
+CUST0242,41,Female,Hoodie,Clothing,101.97,Phoenix,S,Black,Fall,4.3,Yes,Standard,40%,No,12,Credit Card,Quarterly
+CUST0243,32,Male,Boots,Footwear,151.26,Philadelphia,L,Brown,Winter,3.0,No,Standard,20%,No,24,PayPal,Bi-Weekly
+CUST0244,31,Male,Shorts,Clothing,49.35,Seattle,XL,Blue,Fall,4.4,Yes,Express,10%,Yes,1,Debit Card,Weekly
+CUST0245,64,Male,Scarf,Accessories,122.75,Los Angeles,S,Yellow,Fall,3.9,Yes,Standard,10%,Yes,16,PayPal,Weekly
+CUST0246,21,Male,Belt,Accessories,68.57,Boston,M,White,Summer,4.7,No,Standard,None,No,10,Bank Transfer,Weekly
+CUST0247,25,Male,Jacket,Clothing,113.39,Boston,L,Black,Fall,4.3,No,Next Day,20%,No,6,Cash,Bi-Weekly
+CUST0248,34,Female,Coat,Outerwear,239.68,Phoenix,S,Red,Summer,4.4,No,Express,20%,Yes,2,Bank Transfer,Quarterly
+CUST0249,57,Male,Hoodie,Clothing,49.66,Boston,L,Black,Summer,4.6,No,Next Day,None,No,29,Credit Card,Bi-Weekly
+CUST0250,55,Male,Boots,Footwear,152.73,Phoenix,S,Red,Fall,4.0,Yes,Free Shipping,20%,No,0,Cash,Quarterly
+CUST0251,45,Female,Handbag,Accessories,19.52,Dallas,XXL,White,Winter,3.6,Yes,Next Day,None,No,4,Bank Transfer,Monthly
+CUST0252,19,Female,Sandals,Footwear,81.07,Philadelphia,M,Red,Winter,4.2,Yes,Free Shipping,20%,No,21,PayPal,Rarely
+CUST0253,33,Male,Shorts,Clothing,70.9,Phoenix,M,Yellow,Summer,3.6,Yes,Next Day,10%,No,29,PayPal,Weekly
+CUST0254,38,Male,Coat,Outerwear,196.73,Houston,XL,Blue,Fall,4.6,No,Standard,None,Yes,24,PayPal,Quarterly
+CUST0255,45,Male,Jeans,Clothing,121.29,Houston,XXL,Black,Summer,1.9,No,Standard,10%,No,17,Bank Transfer,Monthly
+CUST0256,40,Male,Sandals,Footwear,65.96,San Diego,XS,Brown,Spring,2.8,Yes,Express,None,No,4,Cash,Monthly
+CUST0257,39,Female,Skirt,Clothing,126.84,Los Angeles,XS,Pink,Fall,3.5,No,Next Day,10%,No,19,PayPal,Monthly
+CUST0258,30,Female,Coat,Outerwear,193.15,Los Angeles,L,Yellow,Summer,4.1,No,Next Day,None,Yes,5,Bank Transfer,Monthly
+CUST0259,37,Female,Hoodie,Clothing,59.41,Dallas,M,Green,Fall,4.4,Yes,Free Shipping,None,Yes,15,Bank Transfer,Rarely
+CUST0260,25,Male,Sneakers,Footwear,191.77,Houston,L,Pink,Spring,5.0,No,Standard,20%,No,29,Bank Transfer,Weekly
+CUST0261,24,Female,Jeans,Clothing,46.9,Boston,L,Green,Winter,3.3,No,Express,None,Yes,23,Cash,Bi-Weekly
+CUST0262,25,Male,Watch,Accessories,48.71,Boston,L,Black,Winter,3.8,No,Next Day,40%,Yes,27,Cash,Bi-Weekly
+CUST0263,41,Male,Shorts,Clothing,63.42,Phoenix,XXL,Purple,Winter,4.4,Yes,Next Day,10%,Yes,29,Credit Card,Monthly
+CUST0264,59,Male,Raincoat,Outerwear,154.65,Philadelphia,XL,Brown,Winter,4.9,No,Next Day,20%,No,8,Bank Transfer,Rarely
+CUST0265,43,Male,Windbreaker,Outerwear,180.69,Philadelphia,M,Pink,Spring,5.0,No,Express,None,No,11,PayPal,Quarterly
+CUST0266,62,Male,Sweater,Clothing,150.86,Chicago,XL,Brown,Winter,3.5,No,Free Shipping,None,No,5,Credit Card,Quarterly
+CUST0267,55,Female,Shorts,Clothing,49.64,Philadelphia,S,Yellow,Winter,3.1,No,Next Day,10%,No,12,PayPal,Rarely
+CUST0268,66,Male,Windbreaker,Outerwear,261.28,Phoenix,XXL,Red,Spring,3.3,Yes,Free Shipping,None,No,30,Cash,Weekly
+CUST0269,66,Female,Backpack,Accessories,69.6,New York,S,Grey,Summer,3.2,No,Free Shipping,None,Yes,0,Debit Card,Quarterly
+CUST0270,66,Female,Loafers,Footwear,175.71,San Diego,S,Yellow,Summer,3.1,No,Express,40%,No,15,Bank Transfer,Quarterly
+CUST0271,38,Female,Dress,Clothing,52.71,Seattle,L,Purple,Winter,3.9,No,Free Shipping,10%,Yes,19,Credit Card,Monthly
+CUST0272,61,Male,Handbag,Accessories,124.29,Seattle,L,Black,Spring,2.2,Yes,Standard,None,No,15,Cash,Monthly
+CUST0273,68,Male,Watch,Accessories,97.43,Phoenix,XL,Grey,Fall,2.9,No,Express,None,Yes,25,PayPal,Monthly
+CUST0274,68,Male,Belt,Accessories,57.41,Chicago,S,Grey,Fall,4.3,No,Free Shipping,10%,No,20,Cash,Quarterly
+CUST0275,69,Female,Blazer,Outerwear,137.6,Houston,S,Black,Spring,3.6,Yes,Next Day,40%,Yes,12,PayPal,Bi-Weekly
+CUST0276,18,Female,Jacket,Clothing,74.94,New York,L,Grey,Winter,4.3,Yes,Next Day,None,Yes,7,Cash,Bi-Weekly
+CUST0277,42,Male,Sweater,Clothing,100.24,Seattle,S,Red,Winter,3.7,Yes,Free Shipping,30%,No,9,Debit Card,Rarely
+CUST0278,29,Male,Belt,Accessories,111.21,Los Angeles,S,Red,Winter,2.6,No,Free Shipping,None,Yes,25,Credit Card,Quarterly
+CUST0279,42,Female,Coat,Outerwear,257.74,Houston,XXL,Purple,Summer,4.1,Yes,Free Shipping,None,Yes,0,Credit Card,Monthly
+CUST0280,65,Female,Dress,Clothing,137.28,Los Angeles,XL,Blue,Summer,3.4,No,Next Day,30%,No,3,Credit Card,Rarely
+CUST0281,22,Female,Dress,Clothing,112.3,Philadelphia,XL,Green,Spring,3.0,No,Express,20%,Yes,12,PayPal,Monthly
+CUST0282,30,Male,Jeans,Clothing,139.71,Philadelphia,L,Purple,Summer,3.7,Yes,Free Shipping,20%,Yes,28,Debit Card,Weekly
+CUST0283,18,Male,Jacket,Clothing,54.92,Boston,XXL,Purple,Spring,3.8,No,Express,10%,No,24,Credit Card,Monthly
+CUST0284,55,Male,T-Shirt,Clothing,77.33,Philadelphia,M,Grey,Spring,3.9,No,Standard,None,No,12,Bank Transfer,Bi-Weekly
+CUST0285,39,Female,Sweater,Clothing,129.42,Boston,L,Yellow,Summer,3.4,No,Express,40%,No,4,Bank Transfer,Bi-Weekly
+CUST0286,36,Male,Shorts,Clothing,170.16,Chicago,XS,Blue,Fall,3.8,Yes,Free Shipping,None,No,11,Bank Transfer,Monthly
+CUST0287,18,Male,Raincoat,Outerwear,138.72,Phoenix,XXL,Red,Winter,5.0,Yes,Next Day,30%,Yes,13,Debit Card,Bi-Weekly
+CUST0288,25,Female,Belt,Accessories,155.46,Seattle,XL,White,Winter,3.2,Yes,Next Day,30%,No,30,Credit Card,Bi-Weekly
+CUST0289,35,Female,Skirt,Clothing,128.39,San Diego,XL,Yellow,Winter,5.0,No,Express,None,No,10,Debit Card,Quarterly
+CUST0290,54,Female,Sneakers,Footwear,141.01,Dallas,M,Blue,Summer,3.4,Yes,Standard,20%,Yes,15,Credit Card,Quarterly
+CUST0291,23,Male,Skirt,Clothing,171.48,Boston,M,Brown,Winter,4.8,Yes,Express,20%,Yes,10,Credit Card,Bi-Weekly
+CUST0292,64,Male,Sweater,Clothing,69.15,Seattle,L,White,Spring,3.4,No,Free Shipping,20%,No,22,Credit Card,Quarterly
+CUST0293,58,Male,Shorts,Clothing,125.87,Phoenix,XL,Yellow,Spring,3.0,Yes,Standard,None,No,2,Cash,Weekly
+CUST0294,28,Female,Blazer,Outerwear,193.49,Chicago,XL,Purple,Winter,4.1,Yes,Next Day,None,Yes,17,Debit Card,Monthly
+CUST0295,19,Female,Shorts,Clothing,64.04,San Diego,XXL,Grey,Winter,3.0,No,Express,None,Yes,6,Credit Card,Bi-Weekly
+CUST0296,43,Female,Sunglasses,Accessories,43.02,Phoenix,XXL,Pink,Winter,4.5,Yes,Free Shipping,None,No,21,Bank Transfer,Quarterly
+CUST0297,69,Male,Flats,Footwear,75.01,Houston,XL,Red,Spring,3.3,Yes,Next Day,None,Yes,22,Debit Card,Weekly
+CUST0298,36,Male,Sweater,Clothing,148.46,Philadelphia,XL,Red,Summer,3.1,Yes,Free Shipping,None,Yes,10,PayPal,Monthly
+CUST0299,37,Male,Handbag,Accessories,94.11,Boston,L,White,Spring,4.2,No,Express,10%,Yes,21,Debit Card,Quarterly
+CUST0300,38,Male,Sneakers,Footwear,153.01,Phoenix,S,Red,Summer,5.0,No,Next Day,20%,No,30,Bank Transfer,Monthly
+CUST0301,38,Female,Dress,Clothing,116.51,New York,M,Black,Fall,2.5,Yes,Express,20%,No,16,Cash,Weekly
+CUST0302,67,Male,Hoodie,Clothing,174.21,Chicago,S,Black,Summer,3.9,No,Next Day,None,Yes,2,Cash,Bi-Weekly
+CUST0303,27,Female,Sunglasses,Accessories,151.74,Boston,XL,Yellow,Winter,4.7,Yes,Standard,30%,Yes,21,Credit Card,Rarely
+CUST0304,19,Female,T-Shirt,Clothing,73.12,Boston,XS,Purple,Winter,2.8,No,Next Day,None,No,11,Credit Card,Monthly
+CUST0305,44,Female,Watch,Accessories,111.25,San Diego,XL,Purple,Summer,3.9,Yes,Express,None,No,28,Debit Card,Monthly
+CUST0306,62,Female,Jacket,Clothing,136.29,Houston,XS,Black,Spring,4.5,No,Express,10%,Yes,30,Bank Transfer,Bi-Weekly
+CUST0307,38,Female,Jacket,Clothing,40.44,New York,XL,Pink,Summer,3.4,Yes,Express,None,Yes,11,Credit Card,Monthly
+CUST0308,62,Male,Loafers,Footwear,109.38,New York,XL,Blue,Spring,3.7,No,Express,None,No,7,Bank Transfer,Rarely
+CUST0309,46,Female,Sneakers,Footwear,185.27,Seattle,XS,Red,Winter,5.0,Yes,Free Shipping,20%,No,4,PayPal,Monthly
+CUST0310,37,Female,Belt,Accessories,82.25,Boston,XL,Black,Spring,3.0,No,Next Day,20%,Yes,30,PayPal,Monthly
+CUST0311,44,Female,Sunglasses,Accessories,115.55,Chicago,XXL,Blue,Summer,4.6,Yes,Free Shipping,None,Yes,3,Cash,Monthly
+CUST0312,60,Male,Flats,Footwear,76.82,Boston,S,Blue,Summer,4.4,Yes,Standard,10%,Yes,7,PayPal,Quarterly
+CUST0313,48,Male,Blazer,Outerwear,108.44,Los Angeles,M,Blue,Winter,4.6,No,Next Day,None,No,5,Credit Card,Rarely
+CUST0314,64,Female,Heels,Footwear,48.81,Houston,XS,Purple,Summer,4.2,No,Free Shipping,30%,No,6,Bank Transfer,Monthly
+CUST0315,69,Female,T-Shirt,Clothing,120.5,Philadelphia,XS,Pink,Spring,4.0,Yes,Next Day,10%,Yes,25,Credit Card,Weekly
+CUST0316,31,Female,Jacket,Clothing,29.78,New York,M,Red,Spring,4.2,No,Express,30%,No,27,Debit Card,Monthly
+CUST0317,69,Female,Flats,Footwear,46.37,Boston,S,Brown,Fall,4.1,No,Express,None,Yes,8,Credit Card,Bi-Weekly
+CUST0318,34,Female,Heels,Footwear,73.63,Houston,XS,Pink,Summer,3.9,Yes,Standard,10%,Yes,25,PayPal,Bi-Weekly
+CUST0319,44,Female,Boots,Footwear,202.98,Chicago,M,Red,Spring,2.6,Yes,Next Day,None,No,15,Credit Card,Quarterly
+CUST0320,19,Female,Dress,Clothing,166.53,Los Angeles,S,Green,Fall,3.2,No,Standard,None,No,3,Debit Card,Bi-Weekly
+CUST0321,36,Male,Watch,Accessories,76.29,Seattle,XXL,Green,Winter,4.2,No,Standard,10%,No,6,Debit Card,Monthly
+CUST0322,35,Male,Skirt,Clothing,50.29,Philadelphia,XL,Purple,Spring,4.8,No,Free Shipping,20%,No,17,Debit Card,Bi-Weekly
+CUST0323,19,Female,Flats,Footwear,208.04,San Diego,M,Pink,Winter,2.0,No,Free Shipping,10%,No,20,Bank Transfer,Quarterly
+CUST0324,59,Male,Sunglasses,Accessories,90.89,San Diego,S,Pink,Spring,2.7,Yes,Free Shipping,None,Yes,9,PayPal,Weekly
+CUST0325,46,Male,Sweater,Clothing,161.37,Houston,M,Green,Fall,3.2,Yes,Free Shipping,10%,No,14,Credit Card,Monthly
+CUST0326,24,Male,Coat,Outerwear,244.45,Seattle,XXL,Grey,Spring,3.3,No,Standard,None,No,1,Credit Card,Weekly
+CUST0327,43,Female,T-Shirt,Clothing,102.97,Philadelphia,XL,Brown,Summer,3.3,No,Free Shipping,10%,Yes,10,Cash,Bi-Weekly
+CUST0328,44,Female,Hoodie,Clothing,98.34,Houston,L,Black,Winter,2.8,Yes,Express,None,No,7,Bank Transfer,Bi-Weekly
+CUST0329,35,Male,Skirt,Clothing,53.25,Los Angeles,XS,Pink,Fall,3.1,No,Free Shipping,None,No,14,Bank Transfer,Bi-Weekly
+CUST0330,60,Male,Dress,Clothing,117.96,Philadelphia,M,White,Winter,4.0,No,Next Day,20%,No,23,Cash,Quarterly
+CUST0331,54,Female,Handbag,Accessories,144.07,San Diego,L,Yellow,Summer,3.4,Yes,Next Day,20%,No,5,Cash,Quarterly
+CUST0332,57,Male,Sandals,Footwear,218.43,Philadelphia,M,Pink,Fall,5.0,No,Next Day,None,No,0,Credit Card,Monthly
+CUST0333,62,Female,Dress,Clothing,53.62,Philadelphia,M,Brown,Spring,4.7,No,Free Shipping,None,No,19,Bank Transfer,Monthly
+CUST0334,70,Female,Sweater,Clothing,115.89,Los Angeles,XS,Purple,Summer,3.3,No,Free Shipping,None,No,8,Bank Transfer,Monthly
+CUST0335,70,Male,Dress,Clothing,29.74,New York,L,Brown,Spring,3.1,No,Express,10%,No,2,Debit Card,Monthly
+CUST0336,33,Female,Handbag,Accessories,147.39,Boston,M,Black,Summer,3.6,Yes,Next Day,None,Yes,0,Bank Transfer,Monthly
+CUST0337,49,Male,Flats,Footwear,50.09,Dallas,L,Brown,Fall,2.7,Yes,Free Shipping,30%,Yes,27,Debit Card,Rarely
+CUST0338,69,Male,Dress,Clothing,93.36,Los Angeles,S,Red,Summer,3.9,No,Standard,None,No,19,Credit Card,Bi-Weekly
+CUST0339,59,Male,Sweater,Clothing,53.51,Dallas,XS,Red,Fall,2.4,Yes,Next Day,30%,No,27,Bank Transfer,Rarely
+CUST0340,22,Male,Dress,Clothing,44.22,Los Angeles,L,Pink,Spring,3.0,Yes,Standard,20%,No,30,Debit Card,Quarterly
+CUST0341,35,Male,Dress,Clothing,123.23,Chicago,XXL,Grey,Spring,3.2,Yes,Standard,None,No,26,Credit Card,Monthly
+CUST0342,36,Male,Flats,Footwear,46.55,Philadelphia,M,Grey,Summer,4.4,Yes,Next Day,10%,No,14,Bank Transfer,Quarterly
+CUST0343,53,Male,Backpack,Accessories,147.21,Dallas,M,Purple,Fall,3.5,Yes,Express,None,Yes,13,Bank Transfer,Bi-Weekly
+CUST0344,56,Female,Coat,Outerwear,285.89,Houston,XXL,Pink,Spring,3.7,No,Standard,20%,No,18,Cash,Monthly
+CUST0345,57,Male,Loafers,Footwear,167.73,San Diego,XS,Purple,Spring,4.7,No,Free Shipping,20%,No,11,Credit Card,Monthly
+CUST0346,69,Male,Belt,Accessories,30.28,New York,L,Grey,Winter,3.7,Yes,Express,None,Yes,19,PayPal,Monthly
+CUST0347,64,Male,Boots,Footwear,90.18,Houston,XS,Black,Summer,3.4,Yes,Next Day,10%,Yes,29,Debit Card,Monthly
+CUST0348,42,Female,Sunglasses,Accessories,24.15,Philadelphia,S,Black,Spring,4.8,No,Next Day,10%,No,26,Bank Transfer,Quarterly
+CUST0349,67,Female,Hoodie,Clothing,127.77,Los Angeles,L,Green,Fall,3.5,Yes,Express,None,No,22,Bank Transfer,Rarely
+CUST0350,54,Female,T-Shirt,Clothing,96.59,Seattle,S,Brown,Fall,3.3,No,Next Day,None,No,9,Bank Transfer,Bi-Weekly
+CUST0351,24,Male,Jeans,Clothing,57.09,Los Angeles,M,Black,Winter,3.0,Yes,Free Shipping,None,No,28,Debit Card,Weekly
+CUST0352,66,Male,Hoodie,Clothing,32.99,New York,XL,Pink,Spring,4.6,No,Free Shipping,20%,No,21,Debit Card,Monthly
+CUST0353,35,Female,Shorts,Clothing,109.99,New York,L,White,Fall,4.5,Yes,Express,None,Yes,3,Cash,Rarely
+CUST0354,37,Female,Skirt,Clothing,30.98,New York,XXL,Black,Spring,3.3,Yes,Free Shipping,None,No,7,Credit Card,Bi-Weekly
+CUST0355,46,Female,Skirt,Clothing,176.4,Los Angeles,XS,White,Fall,4.3,No,Express,None,Yes,9,PayPal,Monthly
+CUST0356,51,Male,Jacket,Clothing,141.74,Houston,XL,Yellow,Spring,4.4,Yes,Standard,None,No,0,Cash,Monthly
+CUST0357,33,Female,Sandals,Footwear,177.35,Los Angeles,XXL,Red,Summer,3.3,No,Free Shipping,10%,No,14,Debit Card,Monthly
+CUST0358,39,Female,Flats,Footwear,111.07,Philadelphia,XL,Purple,Summer,3.1,No,Express,None,Yes,0,Debit Card,Bi-Weekly
+CUST0359,43,Male,Dress,Clothing,26.9,Phoenix,XL,White,Fall,3.5,No,Next Day,40%,No,24,Bank Transfer,Monthly
+CUST0360,51,Male,Loafers,Footwear,208.54,San Diego,M,Purple,Winter,2.9,No,Free Shipping,None,Yes,22,Cash,Monthly
+CUST0361,43,Female,Shorts,Clothing,130.21,Boston,M,Purple,Fall,2.6,No,Next Day,10%,No,0,PayPal,Quarterly
+CUST0362,67,Female,Dress,Clothing,48.83,Los Angeles,XL,Brown,Fall,4.0,No,Next Day,20%,Yes,3,Debit Card,Quarterly
+CUST0363,55,Male,Sweater,Clothing,32.89,Dallas,XL,Brown,Summer,3.5,No,Next Day,None,Yes,16,Credit Card,Weekly
+CUST0364,57,Female,Flats,Footwear,172.19,Los Angeles,XL,Grey,Summer,3.2,No,Express,20%,Yes,20,Bank Transfer,Monthly
+CUST0365,46,Male,T-Shirt,Clothing,20.61,Seattle,XL,Green,Fall,5.0,No,Next Day,10%,No,14,Cash,Monthly
+CUST0366,19,Male,Belt,Accessories,146.88,New York,L,Black,Winter,3.8,Yes,Free Shipping,20%,No,16,Cash,Quarterly
+CUST0367,63,Female,Flats,Footwear,183.94,Seattle,S,Yellow,Winter,3.6,No,Next Day,20%,No,16,Cash,Bi-Weekly
+CUST0368,43,Female,Belt,Accessories,101.48,Boston,XS,Red,Fall,4.6,Yes,Next Day,20%,No,0,Cash,Monthly
+CUST0369,50,Male,Windbreaker,Outerwear,204.57,Houston,S,Purple,Spring,4.7,Yes,Standard,20%,No,20,Cash,Quarterly
+CUST0370,20,Male,Watch,Accessories,121.03,Houston,XXL,Blue,Summer,4.7,No,Express,None,No,1,Debit Card,Monthly
+CUST0371,70,Male,Watch,Accessories,42.8,Phoenix,M,Green,Winter,5.0,Yes,Standard,None,No,19,Debit Card,Quarterly
+CUST0372,32,Male,Handbag,Accessories,43.49,Boston,XL,Grey,Spring,4.8,No,Express,30%,No,16,PayPal,Monthly
+CUST0373,29,Female,Jeans,Clothing,104.41,Chicago,XS,Pink,Winter,3.3,Yes,Express,None,No,29,Cash,Monthly
+CUST0374,34,Female,Jacket,Clothing,114.67,Chicago,M,Brown,Fall,4.1,Yes,Express,10%,Yes,7,Bank Transfer,Quarterly
+CUST0375,46,Female,Scarf,Accessories,78.26,Philadelphia,XL,White,Summer,3.2,No,Next Day,None,Yes,20,Debit Card,Quarterly
+CUST0376,39,Female,Jacket,Clothing,156.35,Boston,XXL,Black,Fall,5.0,No,Next Day,None,No,29,Bank Transfer,Monthly
+CUST0377,56,Female,Flats,Footwear,122.95,Boston,M,Purple,Summer,4.3,No,Express,None,No,19,PayPal,Quarterly
+CUST0378,40,Male,Hoodie,Clothing,135.05,Dallas,XS,Green,Summer,4.4,Yes,Standard,None,No,6,PayPal,Monthly
+CUST0379,41,Female,Flats,Footwear,54.73,New York,M,White,Summer,3.2,No,Standard,10%,No,19,Cash,Quarterly
+CUST0380,36,Female,Flats,Footwear,175.19,New York,L,Grey,Summer,3.6,Yes,Next Day,None,No,21,Debit Card,Monthly
+CUST0381,20,Female,Sweater,Clothing,102.45,Los Angeles,XL,Green,Summer,4.0,No,Free Shipping,20%,No,1,Cash,Bi-Weekly
+CUST0382,26,Female,Heels,Footwear,64.71,Phoenix,M,Purple,Winter,3.5,No,Standard,None,No,12,Cash,Monthly
+CUST0383,53,Male,Hoodie,Clothing,79.68,Phoenix,XL,Green,Winter,4.3,Yes,Standard,40%,Yes,28,PayPal,Bi-Weekly
+CUST0384,57,Female,Scarf,Accessories,132.24,Seattle,L,Purple,Spring,3.1,Yes,Standard,None,No,9,Cash,Monthly
+CUST0385,51,Female,Sunglasses,Accessories,42.11,Boston,XXL,Red,Spring,3.3,Yes,Next Day,10%,No,25,PayPal,Bi-Weekly
+CUST0386,32,Male,Watch,Accessories,72.87,Chicago,S,Yellow,Winter,1.6,No,Next Day,20%,No,21,Cash,Bi-Weekly
+CUST0387,70,Female,Sneakers,Footwear,172.06,Seattle,XXL,Red,Spring,5.0,No,Standard,None,Yes,1,Cash,Bi-Weekly
+CUST0388,56,Female,T-Shirt,Clothing,76.77,Dallas,M,Purple,Summer,4.2,Yes,Standard,None,No,15,Cash,Quarterly
+CUST0389,40,Female,Shorts,Clothing,169.44,Dallas,M,White,Fall,4.0,No,Next Day,None,No,14,Bank Transfer,Quarterly
+CUST0390,47,Female,Hoodie,Clothing,96.07,Philadelphia,XS,Yellow,Summer,3.5,No,Free Shipping,None,Yes,2,Bank Transfer,Monthly
+CUST0391,40,Female,Backpack,Accessories,95.86,Phoenix,XL,Blue,Summer,2.4,No,Express,None,Yes,17,Cash,Rarely
+CUST0392,61,Male,T-Shirt,Clothing,73.24,Los Angeles,XL,Pink,Summer,3.9,No,Standard,None,No,1,Debit Card,Bi-Weekly
+CUST0393,68,Male,Hoodie,Clothing,35.47,Phoenix,XS,Brown,Spring,3.1,No,Standard,None,No,20,PayPal,Weekly
+CUST0394,30,Female,Handbag,Accessories,103.38,New York,L,Purple,Winter,4.5,No,Express,30%,No,29,PayPal,Monthly
+CUST0395,63,Male,Windbreaker,Outerwear,62.63,Dallas,XL,White,Fall,4.5,Yes,Standard,20%,No,4,Bank Transfer,Weekly
+CUST0396,57,Male,Sneakers,Footwear,170.05,Philadelphia,XL,Pink,Winter,3.9,Yes,Standard,30%,No,12,PayPal,Bi-Weekly
+CUST0397,34,Male,T-Shirt,Clothing,149.71,Los Angeles,XXL,Red,Fall,3.6,No,Free Shipping,30%,No,14,Credit Card,Rarely
+CUST0398,55,Male,Jacket,Clothing,156.53,Houston,XL,Brown,Winter,3.8,No,Express,None,Yes,11,PayPal,Monthly
+CUST0399,28,Male,Hoodie,Clothing,22.19,Chicago,XL,Red,Spring,3.9,Yes,Standard,10%,Yes,26,PayPal,Bi-Weekly
+CUST0400,35,Female,Skirt,Clothing,174.71,Los Angeles,M,Pink,Spring,2.2,No,Next Day,10%,No,26,Debit Card,Monthly
+CUST0401,26,Male,Skirt,Clothing,134.91,Phoenix,XXL,Red,Fall,4.0,No,Standard,30%,Yes,17,Cash,Bi-Weekly
+CUST0402,41,Male,Shorts,Clothing,76.56,Boston,XL,White,Summer,3.1,Yes,Next Day,10%,No,24,Cash,Rarely
+CUST0403,58,Male,Skirt,Clothing,155.99,Philadelphia,S,Yellow,Spring,3.7,No,Express,None,No,1,Debit Card,Monthly
+CUST0404,39,Female,Dress,Clothing,172.53,New York,XL,Grey,Summer,2.0,Yes,Free Shipping,20%,Yes,2,PayPal,Monthly
+CUST0405,30,Male,Belt,Accessories,35.2,Dallas,XXL,Blue,Fall,2.7,Yes,Standard,20%,No,4,Bank Transfer,Monthly
+CUST0406,52,Male,Sneakers,Footwear,164.79,Houston,S,Red,Winter,2.2,No,Express,None,Yes,24,PayPal,Bi-Weekly
+CUST0407,22,Female,Hoodie,Clothing,156.29,New York,XS,Grey,Summer,4.7,No,Standard,None,Yes,9,Debit Card,Monthly
+CUST0408,27,Female,Windbreaker,Outerwear,228.61,Dallas,M,Pink,Spring,5.0,Yes,Standard,None,No,2,Debit Card,Bi-Weekly
+CUST0409,56,Male,Shorts,Clothing,92.81,Philadelphia,XXL,White,Winter,3.4,No,Standard,None,Yes,13,Bank Transfer,Quarterly
+CUST0410,64,Male,Jeans,Clothing,25.5,Philadelphia,XL,Green,Summer,3.2,No,Next Day,10%,Yes,5,Cash,Quarterly
+CUST0411,55,Male,Skirt,Clothing,98.17,Phoenix,L,Green,Fall,5.0,No,Next Day,10%,Yes,15,Bank Transfer,Weekly
+CUST0412,64,Male,Jeans,Clothing,41.37,San Diego,L,White,Spring,4.0,No,Express,10%,No,4,Bank Transfer,Quarterly
+CUST0413,21,Female,Shorts,Clothing,62.17,Philadelphia,S,Black,Spring,4.0,No,Express,40%,Yes,0,PayPal,Quarterly
+CUST0414,52,Male,Belt,Accessories,51.99,Seattle,M,Yellow,Winter,3.7,Yes,Free Shipping,None,Yes,0,Bank Transfer,Monthly
+CUST0415,51,Female,Jeans,Clothing,145.48,Philadelphia,XS,Blue,Summer,4.3,No,Express,20%,No,14,Cash,Weekly
+CUST0416,33,Male,Shorts,Clothing,21.91,Houston,XL,Grey,Winter,3.7,No,Standard,30%,No,2,Debit Card,Bi-Weekly
+CUST0417,42,Male,Skirt,Clothing,76.31,Phoenix,M,Yellow,Fall,5.0,Yes,Next Day,None,No,5,Debit Card,Monthly
+CUST0418,43,Female,Flats,Footwear,142.75,Houston,L,Yellow,Spring,3.3,Yes,Free Shipping,None,Yes,15,Cash,Weekly
+CUST0419,50,Male,Sweater,Clothing,75.94,Chicago,XS,Grey,Fall,2.6,No,Express,None,No,25,PayPal,Quarterly
+CUST0420,70,Male,T-Shirt,Clothing,174.04,Boston,L,Brown,Summer,4.3,Yes,Express,10%,No,9,Debit Card,Weekly
+CUST0421,29,Female,Sandals,Footwear,173.29,New York,XS,Black,Spring,3.5,Yes,Express,None,No,0,PayPal,Bi-Weekly
+CUST0422,43,Male,Loafers,Footwear,74.17,Boston,M,Grey,Winter,4.4,Yes,Next Day,None,No,30,Credit Card,Monthly
+CUST0423,68,Female,Backpack,Accessories,79.96,Los Angeles,XS,Purple,Summer,4.0,No,Free Shipping,10%,Yes,17,Credit Card,Rarely
+CUST0424,19,Male,Shorts,Clothing,118.19,Houston,S,Green,Winter,3.8,Yes,Standard,None,Yes,3,Cash,Bi-Weekly
+CUST0425,36,Male,Jeans,Clothing,37.16,Houston,XL,Green,Winter,2.8,Yes,Next Day,None,Yes,12,Credit Card,Monthly
+CUST0426,61,Male,Jacket,Clothing,22.83,Philadelphia,S,Green,Spring,2.1,No,Free Shipping,None,No,28,Credit Card,Bi-Weekly
+CUST0427,31,Male,Flats,Footwear,161.85,Houston,S,Blue,Spring,3.4,No,Standard,20%,No,18,Bank Transfer,Monthly
+CUST0428,22,Male,Dress,Clothing,35.74,New York,XL,Purple,Spring,3.5,No,Next Day,None,Yes,9,Credit Card,Weekly
+CUST0429,32,Female,T-Shirt,Clothing,135.1,Los Angeles,XS,Black,Winter,3.7,No,Free Shipping,20%,No,17,Debit Card,Weekly
+CUST0430,37,Female,Jeans,Clothing,21.13,Philadelphia,XL,Red,Fall,3.6,No,Next Day,None,Yes,24,Debit Card,Quarterly
+CUST0431,62,Male,Shorts,Clothing,29.88,Chicago,S,Brown,Spring,3.9,Yes,Express,None,No,17,Cash,Monthly
+CUST0432,52,Male,Jacket,Clothing,28.7,Philadelphia,XS,White,Winter,5.0,No,Express,10%,Yes,1,Debit Card,Quarterly
+CUST0433,51,Male,T-Shirt,Clothing,100.01,Chicago,S,Brown,Summer,4.0,No,Express,20%,No,2,Debit Card,Quarterly
+CUST0434,56,Female,Belt,Accessories,75.52,Houston,L,Yellow,Spring,3.0,Yes,Express,None,Yes,20,Debit Card,Bi-Weekly
+CUST0435,57,Male,Windbreaker,Outerwear,216.08,Chicago,S,Purple,Spring,4.0,No,Standard,None,No,25,Credit Card,Bi-Weekly
+CUST0436,49,Female,Backpack,Accessories,66.0,Phoenix,XL,Black,Summer,3.9,No,Free Shipping,30%,No,9,Credit Card,Monthly
+CUST0437,43,Female,Skirt,Clothing,132.33,Philadelphia,S,Black,Summer,1.6,No,Express,None,No,16,Credit Card,Monthly
+CUST0438,46,Female,Shorts,Clothing,166.37,Philadelphia,XXL,Purple,Fall,4.1,No,Express,10%,Yes,21,Debit Card,Rarely
+CUST0439,70,Male,Jeans,Clothing,55.28,Los Angeles,M,Purple,Summer,3.6,Yes,Free Shipping,None,No,12,Credit Card,Quarterly
+CUST0440,69,Female,T-Shirt,Clothing,123.68,Seattle,XXL,Red,Spring,2.9,No,Next Day,10%,No,10,Bank Transfer,Monthly
+CUST0441,65,Female,Hoodie,Clothing,82.3,Chicago,XXL,Purple,Spring,4.5,Yes,Express,None,No,13,PayPal,Monthly
+CUST0442,48,Male,Skirt,Clothing,85.27,Chicago,S,Brown,Winter,4.6,Yes,Free Shipping,10%,No,28,Bank Transfer,Quarterly
+CUST0443,23,Male,Jeans,Clothing,143.49,Dallas,S,Red,Fall,4.5,No,Next Day,None,No,30,Bank Transfer,Bi-Weekly
+CUST0444,44,Male,Blazer,Outerwear,144.25,New York,XXL,Green,Fall,3.8,No,Free Shipping,10%,Yes,30,Credit Card,Weekly
+CUST0445,38,Female,Sweater,Clothing,22.12,Philadelphia,L,White,Spring,2.3,No,Next Day,None,Yes,30,PayPal,Monthly
+CUST0446,36,Female,Sweater,Clothing,117.24,Chicago,M,Green,Summer,5.0,No,Standard,None,Yes,24,Cash,Rarely
+CUST0447,50,Female,Flats,Footwear,131.36,Boston,XS,Grey,Winter,4.6,No,Standard,None,Yes,19,Debit Card,Monthly
+CUST0448,32,Female,Jeans,Clothing,35.46,Philadelphia,XS,Purple,Winter,4.2,No,Express,30%,No,4,Cash,Bi-Weekly
+CUST0449,35,Male,Jeans,Clothing,141.42,Phoenix,XS,Pink,Spring,3.8,Yes,Express,10%,No,24,PayPal,Quarterly
+CUST0450,40,Female,Jeans,Clothing,155.49,Dallas,S,Brown,Spring,3.1,No,Express,10%,Yes,6,PayPal,Monthly
+CUST0451,21,Female,Sneakers,Footwear,79.19,New York,M,Purple,Winter,3.7,No,Next Day,None,No,25,PayPal,Monthly
+CUST0452,23,Female,T-Shirt,Clothing,64.15,Los Angeles,XS,Green,Spring,4.0,Yes,Next Day,20%,Yes,24,Credit Card,Rarely
+CUST0453,32,Male,Blazer,Outerwear,263.14,Boston,M,Purple,Winter,4.0,Yes,Next Day,None,Yes,13,Bank Transfer,Monthly
+CUST0454,49,Female,Belt,Accessories,94.0,Phoenix,S,Brown,Winter,3.6,No,Next Day,None,No,17,PayPal,Bi-Weekly
+CUST0455,28,Male,Dress,Clothing,158.45,Phoenix,XL,White,Fall,4.9,Yes,Express,10%,No,18,Debit Card,Weekly
+CUST0456,28,Female,Belt,Accessories,67.44,Dallas,XL,Green,Summer,4.3,Yes,Express,None,No,26,Credit Card,Rarely
+CUST0457,20,Male,Heels,Footwear,169.09,Phoenix,S,Blue,Winter,5.0,No,Next Day,30%,Yes,24,Bank Transfer,Rarely
+CUST0458,26,Male,Hoodie,Clothing,177.85,Phoenix,S,White,Spring,3.8,No,Standard,None,No,4,Debit Card,Rarely
+CUST0459,53,Female,Jacket,Clothing,51.63,San Diego,XXL,Black,Winter,4.5,No,Free Shipping,None,Yes,16,Bank Transfer,Weekly
+CUST0460,64,Male,Hoodie,Clothing,130.71,Dallas,XS,White,Winter,2.5,Yes,Free Shipping,None,No,21,Bank Transfer,Rarely
+CUST0461,69,Male,Boots,Footwear,206.43,Dallas,S,Yellow,Spring,2.3,No,Next Day,None,No,27,Credit Card,Bi-Weekly
+CUST0462,54,Female,Sandals,Footwear,101.9,San Diego,XXL,Pink,Winter,3.7,Yes,Standard,None,No,7,Debit Card,Monthly
+CUST0463,45,Male,Flats,Footwear,137.51,Chicago,L,Grey,Fall,3.5,No,Free Shipping,30%,Yes,19,Debit Card,Quarterly
+CUST0464,35,Male,Boots,Footwear,65.86,Seattle,L,Brown,Fall,3.0,No,Free Shipping,None,Yes,9,Cash,Monthly
+CUST0465,64,Female,Loafers,Footwear,74.86,Philadelphia,M,Grey,Winter,3.8,No,Express,20%,No,21,Bank Transfer,Monthly
+CUST0466,50,Male,Loafers,Footwear,192.15,Dallas,XL,Blue,Winter,4.7,No,Free Shipping,None,No,30,Bank Transfer,Weekly
+CUST0467,51,Male,Sandals,Footwear,61.42,Philadelphia,L,White,Spring,4.2,Yes,Express,None,No,20,PayPal,Quarterly
+CUST0468,66,Female,Dress,Clothing,81.18,Phoenix,M,Grey,Summer,3.7,No,Next Day,30%,No,21,Cash,Quarterly
+CUST0469,66,Male,T-Shirt,Clothing,109.91,Dallas,M,Brown,Spring,3.4,No,Standard,None,No,5,Credit Card,Rarely
+CUST0470,27,Male,Jacket,Clothing,58.0,Philadelphia,L,Pink,Spring,3.6,Yes,Free Shipping,None,No,24,Cash,Rarely
+CUST0471,30,Female,Boots,Footwear,155.43,San Diego,XXL,Grey,Spring,3.6,Yes,Next Day,None,No,15,PayPal,Monthly
+CUST0472,43,Female,Windbreaker,Outerwear,288.76,San Diego,L,Brown,Winter,4.7,No,Express,10%,No,1,Cash,Quarterly
+CUST0473,37,Female,Sneakers,Footwear,157.84,Seattle,XL,Pink,Spring,4.2,No,Standard,40%,No,15,Bank Transfer,Bi-Weekly
+CUST0474,52,Male,Boots,Footwear,120.03,Chicago,XXL,Pink,Spring,3.7,No,Express,None,No,5,PayPal,Monthly
+CUST0475,65,Female,Jacket,Clothing,99.71,New York,M,White,Winter,3.3,No,Next Day,30%,Yes,9,Bank Transfer,Bi-Weekly
+CUST0476,29,Male,Scarf,Accessories,72.43,San Diego,S,Brown,Fall,2.4,No,Next Day,None,No,8,Cash,Weekly
+CUST0477,22,Female,Skirt,Clothing,81.96,Philadelphia,M,Purple,Winter,3.8,No,Standard,20%,No,19,Bank Transfer,Monthly
+CUST0478,33,Female,Coat,Outerwear,117.22,Houston,M,Pink,Spring,4.9,No,Free Shipping,10%,No,7,PayPal,Monthly
+CUST0479,66,Female,Backpack,Accessories,61.44,Houston,S,Black,Winter,2.8,No,Express,30%,Yes,5,Cash,Quarterly
+CUST0480,66,Female,Belt,Accessories,120.31,Philadelphia,XXL,Brown,Summer,5.0,No,Next Day,10%,Yes,9,Cash,Bi-Weekly
+CUST0481,70,Male,Sandals,Footwear,110.08,San Diego,XS,Black,Winter,3.8,Yes,Free Shipping,None,Yes,10,Cash,Monthly
+CUST0482,42,Male,Blazer,Outerwear,105.44,San Diego,XS,Pink,Summer,2.5,No,Standard,None,No,16,Cash,Monthly
+CUST0483,59,Male,Dress,Clothing,28.37,Los Angeles,XS,White,Fall,4.2,No,Standard,20%,Yes,6,Bank Transfer,Rarely
+CUST0484,36,Male,Scarf,Accessories,67.98,Phoenix,S,Brown,Summer,4.1,Yes,Express,None,Yes,12,PayPal,Monthly
+CUST0485,19,Male,Blazer,Outerwear,205.85,San Diego,XS,Brown,Spring,3.8,No,Free Shipping,None,No,28,PayPal,Monthly
+CUST0486,18,Female,Heels,Footwear,82.86,New York,XXL,Red,Spring,4.1,No,Standard,None,Yes,8,Bank Transfer,Bi-Weekly
+CUST0487,30,Female,Sunglasses,Accessories,71.04,New York,XXL,Grey,Winter,5.0,No,Express,20%,No,19,Cash,Monthly
+CUST0488,42,Male,Blazer,Outerwear,285.48,Philadelphia,L,Purple,Summer,2.3,No,Standard,10%,Yes,14,Debit Card,Bi-Weekly
+CUST0489,41,Male,Skirt,Clothing,81.44,New York,XS,Green,Spring,4.1,No,Next Day,20%,No,15,Debit Card,Bi-Weekly
+CUST0490,41,Female,Scarf,Accessories,59.71,Boston,XS,Green,Summer,4.3,No,Express,20%,Yes,22,Bank Transfer,Monthly
+CUST0491,65,Female,Hoodie,Clothing,85.02,Houston,S,Yellow,Fall,5.0,Yes,Express,20%,No,27,Cash,Monthly
+CUST0492,41,Male,Coat,Outerwear,276.72,Seattle,S,White,Summer,3.0,Yes,Free Shipping,10%,No,22,PayPal,Monthly
+CUST0493,55,Male,Raincoat,Outerwear,273.06,Houston,XS,Grey,Summer,2.8,Yes,Express,10%,Yes,17,Debit Card,Quarterly
+CUST0494,36,Female,Sneakers,Footwear,106.79,San Diego,XL,Grey,Winter,3.6,Yes,Express,None,No,28,Credit Card,Monthly
+CUST0495,41,Female,Belt,Accessories,34.1,Philadelphia,S,White,Winter,4.1,Yes,Standard,None,No,23,PayPal,Monthly
+CUST0496,56,Female,Flats,Footwear,100.07,Chicago,L,Purple,Fall,4.5,No,Next Day,20%,No,10,Debit Card,Quarterly
+CUST0497,59,Female,Loafers,Footwear,91.34,New York,XS,Brown,Winter,3.4,No,Next Day,None,Yes,13,Credit Card,Bi-Weekly
+CUST0498,59,Male,Scarf,Accessories,16.82,Chicago,XXL,Pink,Winter,2.7,Yes,Standard,30%,No,5,Bank Transfer,Weekly
+CUST0499,25,Male,Flats,Footwear,136.69,Los Angeles,M,Brown,Summer,3.7,Yes,Next Day,20%,No,27,Bank Transfer,Weekly
+CUST0500,65,Male,Jeans,Clothing,142.28,Chicago,XS,Pink,Spring,4.7,No,Express,20%,Yes,8,PayPal,Monthly
+CUST0501,58,Male,Skirt,Clothing,33.83,Seattle,L,Black,Spring,4.0,Yes,Express,None,No,30,Bank Transfer,Monthly
+CUST0502,32,Female,Loafers,Footwear,95.73,Phoenix,L,Red,Summer,4.7,Yes,Next Day,None,Yes,15,Debit Card,Weekly
+CUST0503,59,Male,Jeans,Clothing,76.8,Houston,S,Pink,Spring,4.3,No,Express,30%,No,3,Bank Transfer,Monthly
+CUST0504,18,Male,Sweater,Clothing,94.78,San Diego,XL,Black,Spring,1.1,Yes,Express,None,Yes,16,PayPal,Monthly
+CUST0505,64,Male,Handbag,Accessories,76.82,Philadelphia,XXL,Black,Fall,2.9,No,Standard,10%,Yes,4,Cash,Rarely
+CUST0506,39,Male,Handbag,Accessories,131.02,Boston,XXL,Yellow,Summer,3.0,Yes,Express,None,Yes,1,Cash,Rarely
+CUST0507,30,Male,Jeans,Clothing,101.84,Phoenix,M,Red,Winter,3.5,No,Standard,20%,No,26,Credit Card,Monthly
+CUST0508,23,Female,Scarf,Accessories,138.99,San Diego,XS,Blue,Spring,3.0,No,Express,None,No,14,Credit Card,Rarely
+CUST0509,39,Male,Sandals,Footwear,212.19,Seattle,S,White,Winter,3.8,Yes,Standard,10%,Yes,22,Bank Transfer,Monthly
+CUST0510,58,Female,Dress,Clothing,50.85,Dallas,S,Green,Spring,3.2,Yes,Express,None,No,21,Debit Card,Weekly
+CUST0511,62,Male,Windbreaker,Outerwear,87.35,Los Angeles,L,White,Spring,1.5,No,Express,None,No,2,Debit Card,Monthly
+CUST0512,25,Female,Dress,Clothing,120.62,Chicago,L,Yellow,Spring,4.4,Yes,Express,30%,No,2,Bank Transfer,Weekly
+CUST0513,52,Male,Jacket,Clothing,66.7,Dallas,XXL,Green,Winter,3.5,No,Next Day,10%,No,26,Cash,Monthly
+CUST0514,55,Female,Sandals,Footwear,52.3,Boston,M,Grey,Fall,3.0,No,Standard,None,No,27,Debit Card,Quarterly
+CUST0515,50,Female,T-Shirt,Clothing,127.68,Dallas,XXL,White,Spring,3.9,No,Next Day,None,No,16,Cash,Monthly
+CUST0516,66,Male,Loafers,Footwear,104.39,Chicago,XXL,Black,Summer,3.4,No,Free Shipping,30%,No,16,Credit Card,Quarterly
+CUST0517,69,Female,Shorts,Clothing,116.27,Seattle,L,Yellow,Winter,3.7,Yes,Express,10%,No,21,Credit Card,Quarterly
+CUST0518,42,Female,Sunglasses,Accessories,37.82,Houston,XL,Black,Summer,3.3,No,Express,30%,No,15,Credit Card,Monthly
+CUST0519,44,Male,Handbag,Accessories,42.08,Dallas,XL,Blue,Fall,4.2,Yes,Next Day,20%,Yes,24,Credit Card,Quarterly
+CUST0520,40,Male,Jeans,Clothing,23.37,Seattle,XL,Blue,Winter,4.3,No,Express,20%,Yes,15,PayPal,Quarterly
+CUST0521,32,Male,Loafers,Footwear,170.55,Los Angeles,XXL,Green,Fall,4.4,No,Next Day,10%,No,12,Credit Card,Bi-Weekly
+CUST0522,52,Female,Coat,Outerwear,246.25,New York,XS,Brown,Fall,2.8,No,Standard,None,No,13,Credit Card,Monthly
+CUST0523,19,Female,T-Shirt,Clothing,108.95,Boston,L,Grey,Fall,3.1,No,Free Shipping,None,Yes,14,Debit Card,Bi-Weekly
+CUST0524,40,Female,Jacket,Clothing,175.67,Boston,XL,Black,Winter,2.1,No,Next Day,30%,No,20,Cash,Monthly
+CUST0525,36,Female,Heels,Footwear,144.17,Seattle,M,Brown,Winter,2.4,No,Standard,None,No,9,Bank Transfer,Quarterly
+CUST0526,56,Male,Skirt,Clothing,174.84,Phoenix,XXL,Pink,Summer,4.0,Yes,Free Shipping,None,Yes,11,Debit Card,Monthly
+CUST0527,47,Male,Windbreaker,Outerwear,279.57,Phoenix,L,Red,Fall,2.8,Yes,Express,20%,Yes,19,Bank Transfer,Bi-Weekly
+CUST0528,43,Female,Boots,Footwear,176.65,New York,XS,White,Fall,3.5,No,Express,10%,No,21,Debit Card,Rarely
+CUST0529,24,Male,Shorts,Clothing,40.21,Chicago,XXL,Green,Spring,3.2,Yes,Free Shipping,None,No,24,Debit Card,Bi-Weekly
+CUST0530,32,Female,Belt,Accessories,60.59,Houston,S,Yellow,Summer,4.4,No,Standard,20%,No,4,PayPal,Monthly
+CUST0531,45,Female,Skirt,Clothing,58.68,Phoenix,M,Purple,Fall,4.6,Yes,Standard,40%,No,18,Cash,Monthly
+CUST0532,61,Male,Jacket,Clothing,144.81,Houston,S,Brown,Fall,3.8,No,Express,None,No,28,Debit Card,Rarely
+CUST0533,18,Male,Jeans,Clothing,149.56,Chicago,XXL,White,Fall,3.6,Yes,Express,30%,Yes,4,Credit Card,Rarely
+CUST0534,48,Male,Shorts,Clothing,141.65,Boston,S,Brown,Fall,4.2,Yes,Next Day,30%,No,19,PayPal,Monthly
+CUST0535,24,Male,Scarf,Accessories,94.55,Boston,XXL,Grey,Spring,3.8,No,Next Day,10%,Yes,27,PayPal,Weekly
+CUST0536,27,Male,Jacket,Clothing,162.02,Seattle,M,Yellow,Fall,4.1,Yes,Standard,None,No,27,Cash,Monthly
+CUST0537,47,Male,Skirt,Clothing,96.82,Seattle,XS,White,Summer,2.8,No,Express,None,Yes,3,Debit Card,Quarterly
+CUST0538,28,Female,Dress,Clothing,150.72,Philadelphia,XXL,Green,Fall,3.9,Yes,Next Day,10%,No,5,Bank Transfer,Bi-Weekly
+CUST0539,24,Female,Hoodie,Clothing,88.83,New York,XS,Black,Summer,3.5,Yes,Standard,None,No,27,Credit Card,Monthly
+CUST0540,64,Female,Sneakers,Footwear,190.86,Dallas,XXL,Brown,Spring,4.3,No,Next Day,10%,No,4,PayPal,Monthly
+CUST0541,26,Female,Jeans,Clothing,120.87,Houston,S,Blue,Fall,3.1,Yes,Next Day,None,Yes,16,Debit Card,Monthly
+CUST0542,37,Female,Shorts,Clothing,126.96,Los Angeles,XS,Grey,Winter,2.7,No,Next Day,10%,No,21,Bank Transfer,Bi-Weekly
+CUST0543,27,Male,Watch,Accessories,122.03,Chicago,XL,Green,Summer,4.0,No,Next Day,None,No,8,PayPal,Rarely
+CUST0544,34,Male,Skirt,Clothing,40.51,Seattle,XXL,Yellow,Spring,2.8,No,Free Shipping,10%,No,2,PayPal,Monthly
+CUST0545,53,Male,Sandals,Footwear,217.21,Houston,M,Green,Summer,4.1,No,Express,None,No,0,PayPal,Bi-Weekly
+CUST0546,59,Female,Raincoat,Outerwear,124.51,Boston,XL,Brown,Spring,4.3,Yes,Free Shipping,None,Yes,29,Credit Card,Quarterly
+CUST0547,35,Male,Flats,Footwear,138.81,New York,XXL,Pink,Winter,3.0,Yes,Next Day,20%,No,0,Cash,Quarterly
+CUST0548,43,Female,Handbag,Accessories,115.0,Los Angeles,XS,Pink,Summer,4.7,No,Standard,10%,No,8,PayPal,Rarely
+CUST0549,56,Female,T-Shirt,Clothing,89.4,Phoenix,L,White,Fall,4.0,Yes,Standard,None,Yes,18,Bank Transfer,Bi-Weekly
+CUST0550,68,Male,Heels,Footwear,103.03,Chicago,S,Purple,Winter,2.1,No,Standard,10%,Yes,16,PayPal,Weekly
+CUST0551,36,Male,Coat,Outerwear,51.36,New York,XXL,Blue,Fall,3.6,No,Free Shipping,None,No,17,Bank Transfer,Rarely
+CUST0552,41,Male,Skirt,Clothing,159.41,San Diego,L,Blue,Spring,4.9,No,Express,None,No,14,Credit Card,Rarely
+CUST0553,50,Male,Hoodie,Clothing,158.96,New York,XS,Green,Summer,4.1,Yes,Free Shipping,10%,No,6,Bank Transfer,Quarterly
+CUST0554,48,Male,T-Shirt,Clothing,91.48,Houston,S,Black,Winter,4.1,Yes,Standard,None,No,17,Credit Card,Quarterly
+CUST0555,24,Female,Coat,Outerwear,264.69,Los Angeles,XL,Pink,Spring,3.1,No,Next Day,40%,No,27,Cash,Quarterly
+CUST0556,55,Female,Sweater,Clothing,56.04,Houston,XXL,Purple,Spring,4.2,No,Next Day,None,No,0,Debit Card,Monthly
+CUST0557,59,Female,Scarf,Accessories,123.51,Seattle,S,Blue,Winter,3.3,No,Express,20%,No,25,Debit Card,Monthly
+CUST0558,36,Male,Loafers,Footwear,76.55,New York,XL,Pink,Winter,4.6,Yes,Express,30%,Yes,10,Credit Card,Weekly
+CUST0559,58,Female,Sandals,Footwear,212.85,Houston,M,Pink,Fall,2.6,No,Next Day,20%,No,3,Bank Transfer,Monthly
+CUST0560,21,Female,Sweater,Clothing,111.78,Chicago,XL,Pink,Spring,3.6,Yes,Standard,30%,No,23,Credit Card,Quarterly
+CUST0561,69,Female,Dress,Clothing,119.57,Houston,M,Red,Spring,3.0,No,Standard,20%,No,29,PayPal,Monthly
+CUST0562,50,Male,Sandals,Footwear,117.21,San Diego,XL,White,Spring,4.6,Yes,Free Shipping,20%,No,8,Debit Card,Rarely
+CUST0563,36,Female,Hoodie,Clothing,145.84,Seattle,XXL,Brown,Fall,4.2,No,Standard,None,No,28,PayPal,Weekly
+CUST0564,34,Male,Heels,Footwear,214.68,Dallas,XL,Brown,Fall,3.6,No,Standard,20%,No,24,Credit Card,Monthly
+CUST0565,44,Female,Blazer,Outerwear,60.24,Chicago,XXL,White,Spring,4.6,Yes,Free Shipping,None,No,4,Credit Card,Monthly
+CUST0566,39,Female,Sweater,Clothing,122.43,Houston,XS,Brown,Winter,3.9,No,Next Day,None,No,21,PayPal,Quarterly
+CUST0567,29,Female,Handbag,Accessories,30.97,San Diego,XL,Green,Spring,3.2,Yes,Express,None,No,29,Debit Card,Quarterly
+CUST0568,30,Female,Sweater,Clothing,109.82,Dallas,M,White,Winter,4.2,No,Express,20%,No,13,Bank Transfer,Bi-Weekly
+CUST0569,24,Female,Blazer,Outerwear,203.73,Los Angeles,M,Black,Winter,3.1,Yes,Standard,10%,No,6,PayPal,Rarely
+CUST0570,58,Male,Sneakers,Footwear,111.67,Houston,XS,Red,Spring,3.8,No,Standard,None,No,25,Cash,Quarterly
+CUST0571,21,Female,Skirt,Clothing,105.98,Boston,XL,Pink,Fall,2.8,No,Express,None,No,21,Debit Card,Monthly
+CUST0572,39,Female,Hoodie,Clothing,164.49,Philadelphia,M,Black,Fall,3.3,No,Next Day,10%,Yes,7,Credit Card,Quarterly
+CUST0573,70,Male,Skirt,Clothing,102.63,Phoenix,S,Grey,Fall,4.2,No,Standard,None,Yes,23,Bank Transfer,Monthly
+CUST0574,29,Male,Sneakers,Footwear,185.84,Philadelphia,XS,Purple,Spring,5.0,No,Standard,30%,No,30,Cash,Weekly
+CUST0575,60,Female,Sweater,Clothing,158.67,San Diego,M,Brown,Spring,3.8,No,Express,10%,No,21,Bank Transfer,Monthly
+CUST0576,27,Male,Shorts,Clothing,120.89,Chicago,XL,Purple,Summer,4.1,No,Next Day,30%,Yes,13,PayPal,Quarterly
+CUST0577,18,Male,Loafers,Footwear,136.55,Houston,XS,Blue,Winter,3.5,No,Free Shipping,20%,Yes,2,Credit Card,Weekly
+CUST0578,59,Male,T-Shirt,Clothing,70.94,Phoenix,L,White,Winter,2.7,No,Express,None,Yes,4,Cash,Monthly
+CUST0579,54,Male,Shorts,Clothing,60.56,Los Angeles,S,Yellow,Spring,2.3,No,Next Day,30%,Yes,16,Credit Card,Monthly
+CUST0580,67,Male,Jacket,Clothing,52.99,Phoenix,XS,Blue,Spring,4.5,No,Next Day,None,No,5,PayPal,Monthly
+CUST0581,64,Male,Jeans,Clothing,118.33,Houston,XS,Purple,Spring,3.8,Yes,Next Day,None,No,6,Debit Card,Monthly
+CUST0582,58,Male,Hoodie,Clothing,51.47,Boston,XL,Grey,Winter,4.8,No,Next Day,40%,Yes,25,Debit Card,Rarely
+CUST0583,25,Female,Jeans,Clothing,25.12,Houston,XXL,Red,Spring,5.0,Yes,Express,20%,Yes,17,Cash,Monthly
+CUST0584,33,Male,Boots,Footwear,107.91,Phoenix,XXL,Black,Spring,5.0,Yes,Free Shipping,None,No,14,Cash,Rarely
+CUST0585,32,Male,Windbreaker,Outerwear,271.23,San Diego,XL,Black,Fall,2.7,Yes,Next Day,20%,No,22,PayPal,Monthly
+CUST0586,24,Male,Handbag,Accessories,103.31,Boston,XL,Red,Summer,4.1,No,Next Day,40%,Yes,8,PayPal,Monthly
+CUST0587,44,Male,Sandals,Footwear,177.92,San Diego,XL,Grey,Fall,4.1,Yes,Free Shipping,None,No,4,Bank Transfer,Monthly
+CUST0588,65,Female,Shorts,Clothing,123.65,New York,XS,Black,Winter,3.5,Yes,Express,40%,No,8,PayPal,Bi-Weekly
+CUST0589,43,Male,Blazer,Outerwear,223.32,Los Angeles,L,Pink,Summer,4.2,Yes,Express,30%,Yes,15,Cash,Rarely
+CUST0590,22,Male,Windbreaker,Outerwear,118.72,Boston,M,Purple,Spring,4.2,No,Free Shipping,None,Yes,29,Debit Card,Monthly
+CUST0591,26,Male,T-Shirt,Clothing,22.94,Chicago,M,Grey,Winter,4.4,No,Express,None,No,4,Bank Transfer,Quarterly
+CUST0592,47,Female,Handbag,Accessories,147.43,Los Angeles,S,Brown,Summer,3.3,Yes,Next Day,None,Yes,10,Debit Card,Weekly
+CUST0593,28,Male,Backpack,Accessories,158.7,Houston,XL,White,Winter,3.6,No,Express,30%,No,19,Bank Transfer,Monthly
+CUST0594,23,Male,Sandals,Footwear,85.32,Phoenix,S,Purple,Fall,3.1,No,Next Day,10%,No,11,PayPal,Monthly
+CUST0595,25,Male,Sunglasses,Accessories,131.88,Seattle,XL,Brown,Fall,4.8,No,Free Shipping,None,No,9,Debit Card,Monthly
+CUST0596,67,Female,T-Shirt,Clothing,132.81,New York,XXL,Green,Fall,2.8,Yes,Standard,30%,Yes,27,Credit Card,Weekly
+CUST0597,30,Female,Scarf,Accessories,72.66,Philadelphia,L,Pink,Fall,2.9,Yes,Next Day,30%,Yes,24,Bank Transfer,Bi-Weekly
+CUST0598,66,Female,Shorts,Clothing,91.86,San Diego,S,White,Spring,3.3,No,Standard,None,Yes,25,Debit Card,Monthly
+CUST0599,46,Male,Sandals,Footwear,93.05,Seattle,L,Blue,Spring,3.5,No,Express,None,No,3,Bank Transfer,Monthly
+CUST0600,43,Male,Flats,Footwear,94.23,Houston,S,Black,Winter,3.5,No,Express,20%,No,2,PayPal,Quarterly
+CUST0601,53,Female,Boots,Footwear,150.93,Boston,XS,Yellow,Winter,3.2,Yes,Free Shipping,None,No,21,Credit Card,Quarterly
+CUST0602,28,Male,Coat,Outerwear,213.74,Boston,XS,Red,Fall,4.1,No,Next Day,10%,No,24,Bank Transfer,Quarterly
+CUST0603,21,Male,Dress,Clothing,174.21,Boston,XL,Blue,Summer,2.4,Yes,Standard,20%,Yes,9,PayPal,Rarely
+CUST0604,68,Female,T-Shirt,Clothing,151.81,Dallas,M,Red,Fall,4.0,No,Next Day,None,No,7,PayPal,Rarely
+CUST0605,66,Male,Shorts,Clothing,170.04,New York,L,White,Summer,3.7,No,Free Shipping,20%,No,28,Credit Card,Bi-Weekly
+CUST0606,41,Male,Sunglasses,Accessories,140.9,Chicago,XL,Green,Summer,3.9,Yes,Standard,10%,Yes,24,Bank Transfer,Monthly
+CUST0607,23,Male,Jacket,Clothing,131.23,Dallas,XL,Grey,Winter,3.6,Yes,Express,None,No,21,Bank Transfer,Monthly
+CUST0608,34,Female,Flats,Footwear,210.17,Los Angeles,S,Red,Fall,3.5,No,Standard,30%,No,24,Cash,Weekly
+CUST0609,38,Female,Heels,Footwear,206.81,Chicago,XS,Purple,Fall,3.5,No,Free Shipping,None,No,12,Cash,Bi-Weekly
+CUST0610,46,Female,T-Shirt,Clothing,35.51,Phoenix,XXL,Red,Summer,4.1,Yes,Standard,None,No,20,Debit Card,Monthly
+CUST0611,20,Male,Sweater,Clothing,126.85,Los Angeles,S,Red,Winter,3.7,No,Express,None,Yes,22,Credit Card,Monthly
+CUST0612,48,Male,Skirt,Clothing,141.34,Chicago,S,Pink,Winter,3.5,Yes,Next Day,20%,Yes,15,Debit Card,Weekly
+CUST0613,46,Male,Jeans,Clothing,123.88,Dallas,XS,Pink,Winter,4.0,No,Express,10%,No,1,Cash,Rarely
+CUST0614,38,Female,Heels,Footwear,115.84,Dallas,XL,Green,Spring,3.0,No,Express,10%,No,3,Debit Card,Bi-Weekly
+CUST0615,26,Female,Jeans,Clothing,133.39,Chicago,M,Pink,Summer,3.4,No,Express,None,No,18,Debit Card,Rarely
+CUST0616,44,Female,T-Shirt,Clothing,157.24,Houston,XS,Grey,Winter,3.4,No,Standard,None,No,26,Cash,Monthly
+CUST0617,23,Male,Blazer,Outerwear,250.77,Houston,M,Black,Summer,4.9,No,Express,20%,No,30,PayPal,Weekly
+CUST0618,48,Female,T-Shirt,Clothing,149.79,Dallas,S,Green,Summer,3.5,No,Next Day,30%,No,11,Cash,Quarterly
+CUST0619,70,Male,T-Shirt,Clothing,28.27,Houston,XXL,Green,Spring,4.1,No,Next Day,None,No,24,PayPal,Bi-Weekly
+CUST0620,32,Female,Skirt,Clothing,112.92,Los Angeles,S,Grey,Fall,3.5,Yes,Free Shipping,10%,Yes,29,PayPal,Weekly
+CUST0621,39,Female,Scarf,Accessories,116.95,San Diego,XL,Yellow,Winter,3.6,No,Next Day,None,Yes,13,Cash,Monthly
+CUST0622,65,Male,Hoodie,Clothing,78.72,Boston,XL,Purple,Summer,2.4,No,Next Day,30%,No,21,Debit Card,Monthly
+CUST0623,21,Male,T-Shirt,Clothing,179.54,Houston,L,Grey,Winter,4.4,Yes,Standard,None,No,25,Cash,Bi-Weekly
+CUST0624,53,Female,Dress,Clothing,38.7,New York,XL,Yellow,Fall,4.4,Yes,Standard,30%,No,4,Bank Transfer,Monthly
+CUST0625,37,Male,Dress,Clothing,31.49,New York,XXL,Grey,Winter,2.5,Yes,Next Day,None,No,11,Credit Card,Quarterly
+CUST0626,32,Male,T-Shirt,Clothing,51.65,New York,XL,Pink,Spring,4.0,No,Standard,10%,No,23,Bank Transfer,Bi-Weekly
+CUST0627,64,Female,Dress,Clothing,174.25,Boston,XXL,Black,Summer,4.0,No,Free Shipping,None,No,29,Cash,Rarely
+CUST0628,44,Female,Coat,Outerwear,84.18,Phoenix,XS,Purple,Winter,4.2,Yes,Standard,None,No,7,Bank Transfer,Quarterly
+CUST0629,21,Female,Jeans,Clothing,108.9,Chicago,XXL,Purple,Summer,3.4,Yes,Free Shipping,20%,Yes,11,Cash,Rarely
+CUST0630,68,Female,Sweater,Clothing,92.33,Boston,XL,Brown,Spring,3.1,No,Next Day,None,Yes,6,Cash,Monthly
+CUST0631,24,Female,Skirt,Clothing,98.01,Phoenix,XS,Pink,Fall,4.0,Yes,Standard,None,No,20,Debit Card,Monthly
+CUST0632,70,Female,Jacket,Clothing,137.46,Dallas,L,Green,Summer,5.0,No,Free Shipping,10%,Yes,0,Cash,Quarterly
+CUST0633,61,Female,Sunglasses,Accessories,147.61,Boston,L,Purple,Fall,4.0,Yes,Free Shipping,20%,Yes,20,Credit Card,Monthly
+CUST0634,60,Male,Blazer,Outerwear,69.8,Phoenix,XL,Brown,Winter,3.3,No,Express,None,Yes,3,PayPal,Rarely
+CUST0635,35,Female,Sweater,Clothing,75.12,Chicago,XS,Red,Winter,3.7,Yes,Standard,10%,No,18,Credit Card,Quarterly
+CUST0636,36,Female,Boots,Footwear,36.76,Dallas,XL,Green,Spring,3.7,Yes,Express,None,Yes,3,Bank Transfer,Quarterly
+CUST0637,25,Female,Backpack,Accessories,85.72,Seattle,S,Red,Spring,3.3,No,Standard,None,No,23,PayPal,Bi-Weekly
+CUST0638,43,Male,Windbreaker,Outerwear,177.87,Phoenix,XL,Black,Winter,4.0,Yes,Standard,40%,No,13,Cash,Monthly
+CUST0639,43,Male,Jacket,Clothing,88.88,New York,XXL,Blue,Fall,2.6,No,Free Shipping,10%,No,28,Debit Card,Quarterly
+CUST0640,21,Male,Sweater,Clothing,108.56,Los Angeles,XL,Pink,Spring,3.6,No,Next Day,20%,No,16,Debit Card,Bi-Weekly
+CUST0641,42,Male,Sandals,Footwear,123.61,Los Angeles,M,Blue,Summer,3.6,Yes,Standard,10%,No,9,Debit Card,Weekly
+CUST0642,40,Female,Shorts,Clothing,149.72,Boston,S,Red,Fall,4.4,Yes,Free Shipping,None,No,27,PayPal,Quarterly
+CUST0643,40,Female,Loafers,Footwear,219.8,Houston,XXL,Yellow,Fall,5.0,Yes,Express,10%,Yes,18,Credit Card,Bi-Weekly
+CUST0644,39,Male,Jeans,Clothing,80.19,Dallas,L,Blue,Spring,3.1,No,Express,10%,No,6,Credit Card,Bi-Weekly
+CUST0645,32,Female,Boots,Footwear,47.54,Los Angeles,S,Green,Fall,4.4,No,Next Day,None,Yes,27,Cash,Rarely
+CUST0646,41,Male,Sneakers,Footwear,164.64,New York,XXL,Blue,Spring,4.3,No,Next Day,None,Yes,11,Bank Transfer,Bi-Weekly
+CUST0647,25,Male,Scarf,Accessories,157.4,Phoenix,L,Blue,Fall,3.3,Yes,Free Shipping,None,No,7,Credit Card,Bi-Weekly
+CUST0648,64,Male,Dress,Clothing,117.55,Philadelphia,XS,Yellow,Summer,3.7,Yes,Express,None,Yes,4,Bank Transfer,Quarterly
+CUST0649,43,Male,Jacket,Clothing,148.66,Seattle,XS,Green,Fall,3.5,Yes,Express,None,No,13,Bank Transfer,Monthly
+CUST0650,57,Female,Skirt,Clothing,74.24,Houston,L,Purple,Spring,4.0,No,Free Shipping,10%,Yes,9,Debit Card,Quarterly
+CUST0651,22,Female,Hoodie,Clothing,29.25,Houston,S,Red,Fall,4.1,No,Express,10%,No,19,Cash,Bi-Weekly
+CUST0652,31,Male,Heels,Footwear,131.56,San Diego,M,Black,Spring,3.3,No,Standard,20%,Yes,1,PayPal,Bi-Weekly
+CUST0653,65,Female,Flats,Footwear,48.38,Philadelphia,XS,Green,Winter,3.5,Yes,Next Day,20%,No,10,Bank Transfer,Weekly
+CUST0654,57,Female,Loafers,Footwear,179.92,Houston,XL,White,Winter,4.3,Yes,Standard,None,Yes,8,Bank Transfer,Rarely
+CUST0655,49,Male,Sneakers,Footwear,46.34,Seattle,L,Grey,Fall,3.5,No,Free Shipping,10%,No,16,PayPal,Quarterly
+CUST0656,63,Male,Watch,Accessories,115.81,Dallas,M,Pink,Summer,5.0,No,Standard,None,Yes,30,PayPal,Monthly
+CUST0657,59,Male,Shorts,Clothing,79.77,Seattle,XS,Black,Summer,4.1,No,Next Day,20%,No,9,Cash,Monthly
+CUST0658,21,Female,Hoodie,Clothing,153.09,Dallas,L,Pink,Winter,2.8,Yes,Standard,None,No,30,Bank Transfer,Rarely
+CUST0659,21,Female,Sweater,Clothing,78.17,Dallas,L,Brown,Summer,4.6,No,Express,None,Yes,28,Debit Card,Weekly
+CUST0660,42,Male,Handbag,Accessories,135.23,Chicago,L,Brown,Fall,3.9,No,Standard,20%,Yes,16,Credit Card,Weekly
+CUST0661,40,Female,Sneakers,Footwear,216.31,Philadelphia,XXL,White,Summer,2.8,No,Next Day,30%,No,1,Debit Card,Quarterly
+CUST0662,52,Female,Coat,Outerwear,282.32,San Diego,M,Yellow,Spring,3.4,No,Next Day,10%,Yes,7,Bank Transfer,Bi-Weekly
+CUST0663,54,Male,Watch,Accessories,61.79,Boston,XXL,Brown,Fall,4.5,Yes,Standard,20%,No,17,Credit Card,Quarterly
+CUST0664,40,Male,Boots,Footwear,160.51,New York,XXL,Red,Spring,4.1,No,Next Day,10%,No,14,Cash,Bi-Weekly
+CUST0665,28,Male,Backpack,Accessories,16.65,Los Angeles,XL,Black,Fall,3.1,Yes,Free Shipping,20%,No,11,Cash,Bi-Weekly
+CUST0666,62,Male,Loafers,Footwear,104.18,Boston,XL,White,Fall,4.9,Yes,Standard,None,No,19,Credit Card,Monthly
+CUST0667,22,Male,T-Shirt,Clothing,141.71,New York,XS,Yellow,Fall,3.7,No,Express,None,No,18,PayPal,Quarterly
+CUST0668,37,Male,Jacket,Clothing,102.82,Los Angeles,L,Grey,Summer,4.4,Yes,Next Day,None,Yes,24,Debit Card,Bi-Weekly
+CUST0669,37,Female,Loafers,Footwear,168.12,Dallas,XL,Yellow,Summer,3.2,Yes,Next Day,20%,No,29,Bank Transfer,Monthly
+CUST0670,25,Female,Raincoat,Outerwear,126.93,Los Angeles,XXL,Grey,Fall,4.3,Yes,Standard,30%,Yes,10,PayPal,Rarely
+CUST0671,33,Female,Scarf,Accessories,40.81,Seattle,S,Black,Fall,3.4,No,Free Shipping,10%,No,11,Debit Card,Quarterly
+CUST0672,30,Male,Handbag,Accessories,123.15,Los Angeles,M,Black,Fall,4.4,Yes,Standard,10%,No,12,Cash,Bi-Weekly
+CUST0673,35,Male,Heels,Footwear,125.26,Houston,L,Brown,Fall,3.9,No,Express,None,No,24,Cash,Bi-Weekly
+CUST0674,23,Female,Shorts,Clothing,66.61,New York,XXL,Green,Spring,5.0,No,Free Shipping,20%,No,16,PayPal,Weekly
+CUST0675,61,Male,Flats,Footwear,154.12,New York,XL,Black,Summer,2.6,No,Express,10%,No,28,Cash,Bi-Weekly
+CUST0676,40,Female,Heels,Footwear,84.68,New York,M,Purple,Fall,4.0,Yes,Standard,None,No,13,Debit Card,Bi-Weekly
+CUST0677,38,Female,Raincoat,Outerwear,208.23,Los Angeles,S,Pink,Spring,4.0,Yes,Express,None,No,4,Bank Transfer,Monthly
+CUST0678,42,Male,Loafers,Footwear,79.41,Seattle,XXL,White,Summer,1.8,No,Next Day,None,No,1,Debit Card,Quarterly
+CUST0679,62,Male,T-Shirt,Clothing,62.54,New York,XL,Red,Fall,3.5,No,Free Shipping,20%,No,29,PayPal,Monthly
+CUST0680,43,Male,Skirt,Clothing,127.51,Dallas,M,Green,Spring,3.8,No,Standard,30%,No,8,Cash,Quarterly
+CUST0681,44,Female,Flats,Footwear,171.67,Boston,L,Grey,Winter,3.9,No,Standard,None,No,0,PayPal,Monthly
+CUST0682,58,Male,Jeans,Clothing,30.29,Chicago,M,Yellow,Winter,4.0,No,Express,30%,Yes,2,Debit Card,Monthly
+CUST0683,60,Male,Heels,Footwear,127.77,Seattle,XS,Purple,Fall,1.7,Yes,Next Day,None,Yes,26,PayPal,Bi-Weekly
+CUST0684,44,Male,Heels,Footwear,111.68,Philadelphia,M,Yellow,Winter,4.6,No,Express,None,Yes,17,Bank Transfer,Bi-Weekly
+CUST0685,40,Male,Hoodie,Clothing,160.27,Houston,XXL,Blue,Fall,4.3,No,Express,None,No,25,PayPal,Quarterly
+CUST0686,36,Male,Sneakers,Footwear,139.81,Boston,XXL,White,Summer,3.4,No,Free Shipping,20%,No,4,Bank Transfer,Quarterly
+CUST0687,34,Male,Windbreaker,Outerwear,299.17,Seattle,S,Brown,Winter,3.8,No,Next Day,20%,No,4,Cash,Quarterly
+CUST0688,35,Male,Blazer,Outerwear,191.27,Philadelphia,XS,Green,Spring,4.5,Yes,Free Shipping,30%,Yes,14,Cash,Quarterly
+CUST0689,25,Female,Dress,Clothing,139.69,Philadelphia,XS,Pink,Fall,3.5,Yes,Standard,None,No,11,Credit Card,Rarely
+CUST0690,34,Female,Boots,Footwear,154.98,Houston,S,Yellow,Winter,3.3,No,Express,10%,Yes,26,PayPal,Bi-Weekly
+CUST0691,32,Male,Hoodie,Clothing,80.34,Phoenix,XL,Green,Summer,3.9,Yes,Express,None,No,24,PayPal,Quarterly
+CUST0692,65,Male,Backpack,Accessories,102.61,Seattle,XL,Yellow,Winter,4.5,No,Free Shipping,None,No,0,Credit Card,Bi-Weekly
+CUST0693,61,Female,Handbag,Accessories,138.88,Seattle,XXL,Green,Winter,4.0,Yes,Next Day,10%,No,18,Bank Transfer,Quarterly
+CUST0694,64,Female,Sandals,Footwear,196.62,Boston,L,Blue,Summer,5.0,No,Standard,None,Yes,7,PayPal,Rarely
+CUST0695,24,Female,Backpack,Accessories,142.47,San Diego,XL,Green,Summer,4.2,No,Free Shipping,None,No,17,Credit Card,Quarterly
+CUST0696,41,Male,Heels,Footwear,39.18,Chicago,M,Blue,Winter,4.6,Yes,Free Shipping,None,No,9,Credit Card,Monthly
+CUST0697,29,Male,Skirt,Clothing,132.27,Chicago,S,Yellow,Summer,4.3,No,Standard,None,No,12,Credit Card,Rarely
+CUST0698,38,Female,Jacket,Clothing,109.39,Los Angeles,XL,White,Winter,3.6,Yes,Standard,20%,No,19,Bank Transfer,Monthly
+CUST0699,65,Female,Heels,Footwear,66.67,Houston,XL,Brown,Winter,3.6,No,Standard,None,No,22,PayPal,Monthly
+CUST0700,42,Male,Jeans,Clothing,159.4,New York,S,Purple,Summer,3.5,Yes,Standard,None,No,16,Credit Card,Rarely
+CUST0701,22,Male,Windbreaker,Outerwear,258.83,New York,L,Yellow,Fall,4.7,No,Next Day,None,Yes,15,Debit Card,Weekly
+CUST0702,45,Female,Hoodie,Clothing,21.25,Chicago,XXL,Pink,Fall,3.1,Yes,Free Shipping,None,No,15,Cash,Monthly
+CUST0703,62,Female,Sweater,Clothing,153.12,Los Angeles,M,Pink,Summer,5.0,Yes,Standard,None,No,5,Cash,Monthly
+CUST0704,24,Female,Blazer,Outerwear,202.25,Chicago,XL,White,Fall,5.0,No,Standard,None,No,5,Debit Card,Monthly
+CUST0705,30,Female,Jeans,Clothing,174.58,Los Angeles,XL,Brown,Spring,3.4,No,Express,30%,No,25,PayPal,Bi-Weekly
+CUST0706,26,Female,Dress,Clothing,143.92,Chicago,XL,Blue,Winter,4.4,Yes,Free Shipping,20%,Yes,6,Cash,Weekly
+CUST0707,43,Female,Skirt,Clothing,152.3,Los Angeles,S,White,Spring,4.0,No,Express,None,No,26,Debit Card,Monthly
+CUST0708,48,Female,Handbag,Accessories,92.43,Boston,XS,Purple,Summer,3.4,No,Standard,20%,No,29,PayPal,Bi-Weekly
+CUST0709,33,Female,Jacket,Clothing,73.96,Chicago,S,Green,Winter,4.5,No,Standard,None,Yes,9,Debit Card,Quarterly
+CUST0710,21,Female,Skirt,Clothing,142.75,Boston,S,Grey,Summer,4.5,No,Standard,20%,Yes,12,Debit Card,Weekly
+CUST0711,30,Female,Dress,Clothing,23.07,San Diego,XL,Brown,Spring,3.3,No,Next Day,10%,Yes,1,Debit Card,Quarterly
+CUST0712,45,Male,Sweater,Clothing,36.7,Los Angeles,XS,Green,Summer,4.2,Yes,Express,20%,Yes,0,Bank Transfer,Bi-Weekly
+CUST0713,30,Male,T-Shirt,Clothing,81.83,New York,M,Red,Spring,4.5,No,Next Day,20%,Yes,21,PayPal,Rarely
+CUST0714,20,Female,Sweater,Clothing,22.96,Dallas,S,Blue,Winter,2.5,Yes,Next Day,None,Yes,18,Debit Card,Monthly
+CUST0715,46,Male,Handbag,Accessories,61.1,Boston,XL,Grey,Summer,4.6,Yes,Standard,None,No,11,Debit Card,Bi-Weekly
+CUST0716,20,Male,Jacket,Clothing,116.04,Boston,XL,Black,Winter,5.0,No,Free Shipping,10%,No,16,Bank Transfer,Monthly
+CUST0717,19,Male,Jacket,Clothing,102.12,San Diego,XL,Black,Winter,3.3,Yes,Next Day,None,No,30,Debit Card,Bi-Weekly
+CUST0718,18,Female,Dress,Clothing,63.97,Chicago,XL,White,Summer,5.0,No,Free Shipping,30%,No,2,PayPal,Monthly
+CUST0719,24,Male,Handbag,Accessories,88.42,Philadelphia,XXL,Black,Summer,4.3,Yes,Standard,None,Yes,13,Credit Card,Bi-Weekly
+CUST0720,67,Male,Sweater,Clothing,22.79,Houston,L,Brown,Fall,4.0,No,Standard,10%,No,18,Bank Transfer,Bi-Weekly
+CUST0721,41,Female,Jacket,Clothing,52.72,Chicago,L,Green,Summer,3.6,No,Next Day,20%,Yes,11,PayPal,Monthly
+CUST0722,29,Female,Jacket,Clothing,102.83,Boston,XXL,Brown,Fall,3.7,No,Express,None,No,20,Cash,Monthly
+CUST0723,27,Female,Blazer,Outerwear,297.92,San Diego,XS,Pink,Spring,4.0,No,Free Shipping,None,No,8,Bank Transfer,Rarely
+CUST0724,66,Male,Jeans,Clothing,63.42,Dallas,M,Pink,Fall,2.8,No,Express,40%,No,20,PayPal,Weekly
+CUST0725,37,Male,Coat,Outerwear,63.06,Dallas,XS,Black,Spring,4.0,Yes,Standard,10%,Yes,20,Credit Card,Monthly
+CUST0726,22,Male,Sneakers,Footwear,60.13,Seattle,XXL,Grey,Winter,3.3,No,Standard,10%,No,0,Debit Card,Monthly
+CUST0727,53,Female,T-Shirt,Clothing,152.52,Phoenix,L,Brown,Fall,4.4,No,Express,None,No,9,Debit Card,Quarterly
+CUST0728,36,Male,Shorts,Clothing,146.66,Boston,L,Brown,Winter,3.3,Yes,Express,None,No,17,Credit Card,Monthly
+CUST0729,63,Male,Windbreaker,Outerwear,272.5,Chicago,S,Red,Summer,4.4,No,Next Day,20%,No,15,Credit Card,Monthly
+CUST0730,45,Male,Sandals,Footwear,202.24,Phoenix,L,Pink,Summer,3.1,No,Express,30%,No,25,Bank Transfer,Bi-Weekly
+CUST0731,50,Female,T-Shirt,Clothing,169.32,Phoenix,XXL,Green,Winter,4.3,Yes,Standard,None,Yes,8,Debit Card,Quarterly
+CUST0732,19,Female,Flats,Footwear,51.45,Boston,M,Black,Winter,4.5,No,Standard,20%,No,24,Bank Transfer,Bi-Weekly
+CUST0733,43,Male,Sunglasses,Accessories,131.56,Dallas,S,White,Winter,3.4,No,Standard,20%,No,28,Cash,Quarterly
+CUST0734,64,Female,Handbag,Accessories,36.57,Boston,XS,Yellow,Fall,3.1,No,Express,10%,No,20,Credit Card,Bi-Weekly
+CUST0735,51,Female,Watch,Accessories,32.77,New York,XS,Brown,Summer,2.5,Yes,Next Day,None,No,20,Credit Card,Quarterly
+CUST0736,50,Male,T-Shirt,Clothing,56.39,San Diego,S,Brown,Spring,3.4,Yes,Next Day,20%,No,22,Bank Transfer,Weekly
+CUST0737,37,Male,Sunglasses,Accessories,76.97,Boston,M,Purple,Winter,5.0,No,Next Day,None,No,29,Bank Transfer,Quarterly
+CUST0738,62,Female,Belt,Accessories,97.75,Boston,S,Grey,Summer,3.0,Yes,Standard,20%,Yes,5,Bank Transfer,Monthly
+CUST0739,60,Male,Jeans,Clothing,173.12,Los Angeles,M,White,Spring,3.7,No,Free Shipping,10%,No,19,Cash,Monthly
+CUST0740,36,Female,T-Shirt,Clothing,109.32,San Diego,XS,Blue,Summer,3.3,No,Free Shipping,20%,Yes,14,Credit Card,Bi-Weekly
+CUST0741,54,Male,Handbag,Accessories,46.49,Chicago,XXL,Brown,Summer,2.7,No,Next Day,None,No,4,Cash,Monthly
+CUST0742,28,Male,Sandals,Footwear,37.6,Dallas,XXL,Green,Spring,3.0,No,Express,None,Yes,21,Cash,Weekly
+CUST0743,30,Male,Handbag,Accessories,99.01,New York,M,White,Spring,3.3,No,Express,None,No,28,Credit Card,Quarterly
+CUST0744,34,Female,Watch,Accessories,16.68,Boston,M,Grey,Spring,3.2,Yes,Next Day,10%,No,13,Bank Transfer,Monthly
+CUST0745,37,Female,Coat,Outerwear,84.23,Los Angeles,M,Black,Spring,3.0,Yes,Next Day,None,No,21,PayPal,Bi-Weekly
+CUST0746,37,Male,Flats,Footwear,172.44,San Diego,M,Green,Summer,3.4,No,Express,None,Yes,2,Cash,Monthly
+CUST0747,19,Female,Sneakers,Footwear,38.92,Philadelphia,XXL,Yellow,Summer,4.8,No,Next Day,20%,Yes,30,Cash,Monthly
+CUST0748,63,Female,Boots,Footwear,105.82,New York,XS,Black,Winter,3.1,Yes,Next Day,10%,No,9,Credit Card,Bi-Weekly
+CUST0749,40,Male,Heels,Footwear,159.91,Chicago,XXL,Pink,Fall,3.3,No,Express,None,No,12,PayPal,Weekly
+CUST0750,19,Male,Belt,Accessories,114.04,Dallas,M,Grey,Summer,5.0,No,Express,10%,No,21,Debit Card,Bi-Weekly
+CUST0751,58,Female,Heels,Footwear,124.99,Dallas,S,Yellow,Winter,4.6,No,Next Day,None,Yes,13,Cash,Rarely
+CUST0752,21,Male,Scarf,Accessories,143.86,Phoenix,XXL,Red,Winter,4.1,No,Standard,None,No,14,PayPal,Rarely
+CUST0753,46,Male,Scarf,Accessories,135.07,New York,L,Black,Summer,4.2,No,Express,10%,Yes,23,Credit Card,Monthly
+CUST0754,68,Male,Shorts,Clothing,106.74,Boston,M,Grey,Summer,1.9,No,Free Shipping,None,No,6,Credit Card,Monthly
+CUST0755,52,Male,Heels,Footwear,52.86,Los Angeles,XL,Black,Winter,3.8,No,Next Day,None,No,12,Bank Transfer,Rarely
+CUST0756,67,Male,Boots,Footwear,145.62,Houston,M,Purple,Winter,3.6,Yes,Standard,20%,No,7,Bank Transfer,Monthly
+CUST0757,64,Female,Raincoat,Outerwear,274.31,New York,XL,White,Fall,3.8,No,Free Shipping,None,No,19,Bank Transfer,Monthly
+CUST0758,67,Male,Belt,Accessories,75.28,Houston,XL,Green,Winter,5.0,No,Free Shipping,10%,No,19,Cash,Quarterly
+CUST0759,42,Male,T-Shirt,Clothing,78.39,Houston,M,Yellow,Spring,3.8,No,Next Day,20%,Yes,10,Credit Card,Weekly
+CUST0760,41,Male,Sneakers,Footwear,181.71,Seattle,S,Pink,Winter,2.5,No,Express,30%,Yes,1,Cash,Monthly
+CUST0761,18,Male,Loafers,Footwear,187.27,Boston,S,Purple,Fall,3.8,No,Standard,10%,Yes,8,PayPal,Monthly
+CUST0762,45,Female,Handbag,Accessories,74.38,San Diego,XS,Purple,Winter,3.4,No,Standard,None,No,14,Cash,Monthly
+CUST0763,48,Female,Dress,Clothing,161.3,Chicago,L,Black,Winter,2.4,Yes,Express,30%,No,20,PayPal,Monthly
+CUST0764,31,Male,Sweater,Clothing,165.29,Boston,L,White,Spring,4.5,No,Next Day,None,No,11,PayPal,Monthly
+CUST0765,50,Male,Loafers,Footwear,113.21,New York,XXL,Purple,Winter,3.3,Yes,Express,20%,Yes,15,Cash,Quarterly
+CUST0766,30,Female,Backpack,Accessories,63.37,Seattle,S,Yellow,Winter,4.4,Yes,Express,None,No,18,Credit Card,Bi-Weekly
+CUST0767,51,Female,Handbag,Accessories,85.77,Houston,XS,Pink,Winter,3.8,Yes,Next Day,10%,Yes,1,Bank Transfer,Quarterly
+CUST0768,55,Female,Skirt,Clothing,138.64,Dallas,M,Pink,Fall,4.4,No,Standard,None,No,29,Cash,Monthly
+CUST0769,38,Female,Heels,Footwear,214.56,Chicago,M,Blue,Summer,2.8,Yes,Next Day,20%,No,11,Credit Card,Quarterly
+CUST0770,58,Male,Flats,Footwear,200.29,Phoenix,XL,Green,Winter,4.0,No,Free Shipping,30%,No,2,Debit Card,Monthly
+CUST0771,27,Male,Raincoat,Outerwear,176.33,New York,XXL,Brown,Winter,3.8,No,Standard,40%,Yes,23,Cash,Monthly
+CUST0772,64,Male,Sneakers,Footwear,180.26,New York,L,Red,Winter,5.0,Yes,Standard,20%,Yes,12,Cash,Monthly
+CUST0773,52,Female,Skirt,Clothing,139.32,Houston,M,Pink,Summer,3.3,Yes,Next Day,None,Yes,28,Credit Card,Monthly
+CUST0774,31,Female,Raincoat,Outerwear,121.79,Boston,M,Red,Fall,3.1,No,Express,20%,No,6,Debit Card,Bi-Weekly
+CUST0775,44,Male,Shorts,Clothing,128.33,San Diego,M,Pink,Spring,4.0,Yes,Express,10%,Yes,17,Bank Transfer,Monthly
+CUST0776,30,Male,Shorts,Clothing,104.04,Dallas,XXL,Blue,Fall,3.8,No,Next Day,None,No,8,Debit Card,Monthly
+CUST0777,36,Female,Flats,Footwear,167.07,Chicago,M,Red,Spring,2.5,Yes,Free Shipping,None,No,27,Bank Transfer,Weekly
+CUST0778,25,Female,Backpack,Accessories,133.11,Boston,S,Purple,Fall,3.4,Yes,Next Day,10%,No,12,PayPal,Bi-Weekly
+CUST0779,39,Female,Loafers,Footwear,146.26,Seattle,XS,Pink,Fall,3.3,No,Next Day,20%,No,21,Bank Transfer,Quarterly
+CUST0780,42,Female,Shorts,Clothing,46.74,Seattle,XS,Black,Spring,4.3,No,Next Day,30%,Yes,12,Cash,Monthly
+CUST0781,21,Male,Flats,Footwear,58.41,Phoenix,XXL,Green,Summer,4.0,No,Express,30%,No,29,Bank Transfer,Monthly
+CUST0782,58,Male,T-Shirt,Clothing,173.53,Phoenix,L,Yellow,Winter,3.9,No,Next Day,None,Yes,22,Debit Card,Monthly
+CUST0783,26,Female,Blazer,Outerwear,102.82,San Diego,M,Pink,Winter,4.4,No,Free Shipping,20%,Yes,18,Debit Card,Weekly
+CUST0784,48,Female,Raincoat,Outerwear,180.29,Seattle,L,Brown,Fall,2.1,No,Next Day,None,Yes,8,Debit Card,Quarterly
+CUST0785,53,Male,Hoodie,Clothing,63.45,Philadelphia,L,Black,Winter,5.0,No,Standard,None,No,11,Bank Transfer,Monthly
+CUST0786,52,Female,Skirt,Clothing,160.45,Philadelphia,L,Blue,Spring,3.3,No,Standard,10%,Yes,29,Cash,Bi-Weekly
+CUST0787,53,Female,Sandals,Footwear,70.83,Los Angeles,S,Yellow,Fall,4.3,Yes,Free Shipping,10%,No,12,PayPal,Rarely
+CUST0788,69,Male,Heels,Footwear,206.88,Houston,S,Brown,Fall,3.0,Yes,Free Shipping,None,No,3,Cash,Rarely
+CUST0789,39,Female,Flats,Footwear,73.54,Phoenix,XL,White,Winter,5.0,No,Standard,None,No,14,Credit Card,Quarterly
+CUST0790,46,Male,Jeans,Clothing,96.03,Boston,L,Yellow,Summer,4.7,No,Next Day,30%,No,15,Bank Transfer,Monthly
+CUST0791,64,Male,Jeans,Clothing,111.06,Boston,S,Purple,Summer,4.3,No,Express,20%,No,19,Bank Transfer,Monthly
+CUST0792,26,Female,Sandals,Footwear,53.35,Seattle,M,Grey,Spring,3.7,Yes,Free Shipping,None,No,15,PayPal,Quarterly
+CUST0793,42,Male,Flats,Footwear,211.55,Philadelphia,S,Grey,Spring,4.4,No,Next Day,None,No,16,Debit Card,Bi-Weekly
+CUST0794,56,Male,Hoodie,Clothing,149.52,San Diego,L,Brown,Winter,3.1,Yes,Express,None,Yes,11,Bank Transfer,Quarterly
+CUST0795,66,Female,Dress,Clothing,38.59,Los Angeles,S,Brown,Summer,2.5,Yes,Express,None,Yes,5,Debit Card,Monthly
+CUST0796,37,Female,Sweater,Clothing,62.86,Los Angeles,XL,Grey,Spring,4.1,Yes,Next Day,10%,Yes,23,Debit Card,Quarterly
+CUST0797,68,Male,Sneakers,Footwear,178.59,Houston,XS,Purple,Winter,2.6,No,Standard,20%,Yes,4,Cash,Quarterly
+CUST0798,39,Female,T-Shirt,Clothing,116.99,Houston,XL,Black,Spring,3.7,No,Standard,None,No,9,Bank Transfer,Quarterly
+CUST0799,58,Female,Sweater,Clothing,138.36,New York,XL,Brown,Summer,3.2,No,Free Shipping,40%,No,16,Bank Transfer,Monthly
+CUST0800,65,Female,Skirt,Clothing,126.87,Houston,XL,Purple,Summer,3.1,No,Next Day,10%,Yes,28,PayPal,Quarterly
+CUST0801,26,Female,Skirt,Clothing,163.6,Phoenix,M,Black,Spring,3.8,Yes,Express,None,Yes,8,Bank Transfer,Weekly
+CUST0802,49,Female,Skirt,Clothing,171.55,San Diego,S,Blue,Winter,4.6,Yes,Free Shipping,10%,No,14,Debit Card,Monthly
+CUST0803,39,Male,Sweater,Clothing,112.37,Houston,S,White,Winter,4.0,Yes,Next Day,None,No,7,Debit Card,Monthly
+CUST0804,62,Male,Dress,Clothing,37.03,Phoenix,M,Green,Spring,4.3,No,Next Day,40%,No,18,Bank Transfer,Quarterly
+CUST0805,18,Female,Hoodie,Clothing,158.98,San Diego,S,White,Summer,3.3,No,Free Shipping,10%,No,19,Bank Transfer,Weekly
+CUST0806,28,Male,Sweater,Clothing,133.4,Chicago,XXL,White,Winter,3.5,Yes,Standard,20%,No,3,Credit Card,Bi-Weekly
+CUST0807,31,Female,Hoodie,Clothing,78.98,San Diego,L,White,Summer,3.9,No,Free Shipping,None,No,16,Cash,Weekly
+CUST0808,69,Female,Dress,Clothing,116.03,Chicago,L,Blue,Fall,3.3,No,Standard,20%,Yes,23,Bank Transfer,Bi-Weekly
+CUST0809,41,Female,Boots,Footwear,133.31,Chicago,XS,Blue,Winter,3.8,No,Express,20%,No,17,Cash,Monthly
+CUST0810,70,Male,Hoodie,Clothing,44.58,Dallas,XS,White,Fall,2.4,Yes,Express,None,Yes,22,Cash,Bi-Weekly
+CUST0811,47,Female,Watch,Accessories,16.46,Chicago,S,Black,Summer,1.9,Yes,Next Day,30%,No,17,PayPal,Monthly
+CUST0812,38,Female,Raincoat,Outerwear,99.53,Houston,XL,Purple,Spring,3.4,No,Free Shipping,40%,No,9,Debit Card,Quarterly
+CUST0813,32,Male,Dress,Clothing,179.95,Houston,L,Brown,Fall,4.2,No,Standard,None,No,24,Debit Card,Quarterly
+CUST0814,22,Female,Dress,Clothing,163.53,Boston,S,Yellow,Fall,3.3,No,Express,None,No,10,PayPal,Bi-Weekly
+CUST0815,63,Male,Raincoat,Outerwear,234.16,Seattle,XL,Purple,Summer,5.0,No,Next Day,None,Yes,5,Credit Card,Bi-Weekly
+CUST0816,44,Female,Belt,Accessories,138.14,Seattle,XS,Pink,Winter,2.8,No,Free Shipping,20%,Yes,3,PayPal,Monthly
+CUST0817,36,Male,Jeans,Clothing,55.58,Chicago,XXL,Blue,Summer,3.0,Yes,Next Day,None,No,22,Credit Card,Bi-Weekly
+CUST0818,69,Male,Watch,Accessories,150.03,San Diego,S,Pink,Fall,3.9,No,Standard,10%,No,9,Debit Card,Quarterly
+CUST0819,23,Male,T-Shirt,Clothing,22.48,Philadelphia,XXL,Red,Winter,5.0,No,Free Shipping,30%,Yes,21,Bank Transfer,Quarterly
+CUST0820,61,Male,T-Shirt,Clothing,81.83,Dallas,XS,White,Spring,3.4,Yes,Standard,30%,Yes,14,Debit Card,Monthly
+CUST0821,51,Female,Loafers,Footwear,55.01,Philadelphia,XL,White,Summer,3.2,Yes,Standard,None,Yes,28,Credit Card,Bi-Weekly
+CUST0822,19,Female,Blazer,Outerwear,160.93,Houston,S,Red,Fall,3.1,Yes,Express,None,Yes,14,PayPal,Monthly
+CUST0823,62,Male,T-Shirt,Clothing,90.4,San Diego,XS,Pink,Spring,5.0,No,Express,None,No,18,PayPal,Rarely
+CUST0824,68,Male,Loafers,Footwear,218.68,Houston,XXL,Pink,Spring,3.7,No,Free Shipping,None,No,15,PayPal,Weekly
+CUST0825,33,Male,Windbreaker,Outerwear,102.37,Dallas,L,Brown,Winter,3.8,No,Standard,None,No,24,Cash,Monthly
+CUST0826,60,Female,Loafers,Footwear,153.7,New York,L,Purple,Summer,3.5,No,Express,30%,No,8,Debit Card,Monthly
+CUST0827,38,Female,Heels,Footwear,82.36,Boston,XXL,Pink,Winter,2.9,Yes,Next Day,None,No,22,Credit Card,Monthly
+CUST0828,48,Male,Skirt,Clothing,149.97,Houston,M,White,Fall,4.9,No,Free Shipping,None,No,15,Debit Card,Monthly
+CUST0829,61,Male,Flats,Footwear,175.93,New York,XL,Blue,Winter,4.1,No,Express,30%,No,30,Cash,Quarterly
+CUST0830,48,Male,Windbreaker,Outerwear,294.24,Seattle,XXL,Blue,Fall,2.3,No,Standard,10%,No,28,PayPal,Weekly
+CUST0831,26,Female,Flats,Footwear,147.41,Dallas,XS,Yellow,Fall,3.5,No,Free Shipping,20%,Yes,4,Debit Card,Bi-Weekly
+CUST0832,18,Female,Skirt,Clothing,178.08,Philadelphia,M,Grey,Spring,3.4,Yes,Next Day,None,Yes,4,Cash,Weekly
+CUST0833,40,Male,Hoodie,Clothing,59.8,Chicago,XS,White,Summer,5.0,No,Express,20%,Yes,7,Debit Card,Quarterly
+CUST0834,40,Male,Coat,Outerwear,148.47,New York,XS,Pink,Spring,3.2,No,Free Shipping,None,No,26,PayPal,Monthly
+CUST0835,20,Female,Flats,Footwear,196.74,Philadelphia,M,Green,Spring,3.6,Yes,Express,30%,No,26,Credit Card,Rarely
+CUST0836,47,Male,Blazer,Outerwear,56.22,Seattle,XL,Blue,Winter,2.9,Yes,Next Day,None,Yes,26,Cash,Rarely
+CUST0837,54,Female,Flats,Footwear,198.09,San Diego,M,Pink,Fall,5.0,No,Free Shipping,20%,Yes,15,Debit Card,Bi-Weekly
+CUST0838,57,Female,Raincoat,Outerwear,99.93,Houston,S,White,Fall,4.0,No,Free Shipping,10%,Yes,6,Bank Transfer,Quarterly
+CUST0839,58,Male,Hoodie,Clothing,41.09,Houston,S,Grey,Summer,3.0,No,Express,None,No,3,Cash,Quarterly
+CUST0840,25,Male,Hoodie,Clothing,67.57,Boston,M,Grey,Spring,4.3,No,Standard,20%,Yes,7,PayPal,Rarely
+CUST0841,48,Male,Sandals,Footwear,161.63,Philadelphia,M,Black,Summer,3.1,No,Next Day,20%,Yes,16,Debit Card,Monthly
+CUST0842,48,Male,Jeans,Clothing,84.56,Boston,L,Yellow,Winter,4.1,No,Next Day,10%,Yes,25,Cash,Bi-Weekly
+CUST0843,54,Male,Skirt,Clothing,49.64,Dallas,L,Pink,Fall,3.7,No,Free Shipping,20%,No,26,Debit Card,Monthly
+CUST0844,20,Male,Watch,Accessories,150.88,New York,XXL,Black,Spring,4.1,Yes,Next Day,30%,Yes,5,Debit Card,Monthly
+CUST0845,66,Female,Jacket,Clothing,139.09,Los Angeles,S,Black,Summer,2.6,No,Free Shipping,20%,Yes,11,Bank Transfer,Weekly
+CUST0846,36,Male,Backpack,Accessories,39.62,Philadelphia,L,Pink,Fall,3.7,No,Free Shipping,None,No,30,Credit Card,Rarely
+CUST0847,23,Male,T-Shirt,Clothing,154.33,Seattle,XS,Red,Summer,2.8,Yes,Next Day,None,No,29,Credit Card,Monthly
+CUST0848,26,Male,Shorts,Clothing,115.13,Phoenix,M,Green,Summer,4.1,Yes,Free Shipping,10%,No,11,Credit Card,Monthly
+CUST0849,54,Female,Loafers,Footwear,70.67,New York,XS,Black,Summer,3.9,No,Free Shipping,30%,No,17,Bank Transfer,Weekly
+CUST0850,51,Male,Sweater,Clothing,91.03,Dallas,M,Pink,Spring,3.8,No,Free Shipping,30%,Yes,29,Credit Card,Monthly
+CUST0851,37,Female,Windbreaker,Outerwear,126.79,Seattle,L,Purple,Fall,3.7,Yes,Free Shipping,None,No,24,PayPal,Weekly
+CUST0852,58,Male,Sweater,Clothing,106.45,Houston,XL,Black,Fall,3.7,No,Standard,20%,No,9,Cash,Bi-Weekly
+CUST0853,48,Female,Hoodie,Clothing,84.44,Houston,XL,Purple,Spring,3.0,No,Standard,None,No,12,Debit Card,Monthly
+CUST0854,50,Female,Blazer,Outerwear,117.68,New York,XS,Red,Winter,2.5,No,Free Shipping,10%,No,20,Credit Card,Monthly
+CUST0855,19,Female,Boots,Footwear,193.14,Chicago,L,Pink,Spring,4.9,No,Next Day,20%,No,27,Debit Card,Quarterly
+CUST0856,57,Male,Skirt,Clothing,154.13,New York,XS,Purple,Winter,3.3,Yes,Standard,None,No,14,Debit Card,Rarely
+CUST0857,41,Female,Heels,Footwear,97.73,New York,L,White,Spring,3.1,No,Free Shipping,None,No,25,Credit Card,Quarterly
+CUST0858,32,Male,Sneakers,Footwear,194.27,Houston,XL,Brown,Spring,3.7,Yes,Express,None,Yes,20,PayPal,Bi-Weekly
+CUST0859,32,Male,Jacket,Clothing,140.7,Chicago,L,Blue,Summer,3.5,Yes,Standard,30%,No,23,PayPal,Weekly
+CUST0860,56,Male,Shorts,Clothing,138.38,Houston,XXL,Red,Fall,2.5,No,Standard,40%,Yes,17,Credit Card,Quarterly
+CUST0861,35,Female,Belt,Accessories,33.96,Dallas,XS,White,Fall,4.3,Yes,Free Shipping,10%,No,15,PayPal,Weekly
+CUST0862,49,Female,Scarf,Accessories,44.94,Chicago,XXL,Grey,Fall,2.9,Yes,Express,None,No,24,Credit Card,Bi-Weekly
+CUST0863,56,Female,Shorts,Clothing,31.42,Los Angeles,S,Pink,Winter,3.7,No,Standard,None,No,3,Credit Card,Monthly
+CUST0864,18,Female,Sneakers,Footwear,187.15,Dallas,M,Grey,Summer,5.0,Yes,Free Shipping,10%,No,7,Debit Card,Quarterly
+CUST0865,62,Male,Skirt,Clothing,172.18,New York,S,Green,Spring,3.5,Yes,Next Day,10%,No,28,Debit Card,Quarterly
+CUST0866,55,Male,Backpack,Accessories,115.89,Chicago,M,Black,Spring,4.9,Yes,Standard,40%,No,16,Debit Card,Bi-Weekly
+CUST0867,20,Female,T-Shirt,Clothing,78.29,Seattle,XXL,Purple,Winter,4.3,No,Free Shipping,None,No,20,Bank Transfer,Monthly
+CUST0868,37,Male,Backpack,Accessories,21.52,Chicago,L,Pink,Fall,3.2,No,Standard,None,No,28,Debit Card,Monthly
+CUST0869,30,Female,Jeans,Clothing,115.11,Houston,M,Black,Winter,3.7,No,Next Day,None,Yes,1,Credit Card,Weekly
+CUST0870,54,Female,Loafers,Footwear,65.4,Chicago,L,Purple,Winter,3.7,No,Free Shipping,None,No,25,PayPal,Bi-Weekly
+CUST0871,56,Female,Jeans,Clothing,85.18,Houston,XL,White,Winter,4.2,No,Next Day,30%,No,18,Cash,Monthly
+CUST0872,69,Male,Dress,Clothing,26.13,Philadelphia,S,Pink,Winter,4.0,No,Standard,10%,No,20,Cash,Quarterly
+CUST0873,18,Female,Sneakers,Footwear,184.89,Chicago,XS,Blue,Spring,5.0,No,Free Shipping,None,Yes,21,Bank Transfer,Quarterly
+CUST0874,65,Male,Raincoat,Outerwear,296.7,Phoenix,L,Green,Summer,3.9,No,Free Shipping,None,No,9,Cash,Quarterly
+CUST0875,41,Female,Sunglasses,Accessories,141.17,Seattle,XL,Black,Spring,2.6,No,Free Shipping,None,No,11,Cash,Quarterly
+CUST0876,43,Male,Jeans,Clothing,83.21,Dallas,XXL,Grey,Spring,5.0,No,Free Shipping,10%,Yes,16,Cash,Quarterly
+CUST0877,56,Female,Blazer,Outerwear,98.48,Dallas,XS,Green,Fall,3.4,No,Next Day,None,No,1,PayPal,Monthly
+CUST0878,30,Male,Sunglasses,Accessories,33.94,San Diego,XXL,Pink,Summer,3.3,Yes,Express,20%,No,7,Debit Card,Rarely
+CUST0879,24,Male,Sandals,Footwear,152.3,Dallas,S,Black,Summer,3.4,No,Standard,40%,Yes,7,Cash,Weekly
+CUST0880,25,Male,Coat,Outerwear,141.25,Boston,L,White,Spring,4.3,No,Express,None,No,14,Credit Card,Rarely
+CUST0881,49,Male,Skirt,Clothing,113.54,San Diego,XL,White,Spring,3.8,No,Next Day,10%,No,23,Debit Card,Monthly
+CUST0882,18,Male,Scarf,Accessories,76.87,Los Angeles,XS,Red,Summer,3.9,No,Next Day,None,Yes,16,PayPal,Quarterly
+CUST0883,21,Male,Windbreaker,Outerwear,190.09,Chicago,XS,Pink,Spring,5.0,Yes,Next Day,10%,No,14,PayPal,Quarterly
+CUST0884,60,Female,Hoodie,Clothing,104.28,Boston,M,Blue,Fall,3.1,No,Express,None,Yes,28,Cash,Quarterly
+CUST0885,65,Female,Sunglasses,Accessories,147.67,Phoenix,XS,Red,Summer,4.1,Yes,Express,10%,Yes,22,Debit Card,Quarterly
+CUST0886,44,Female,Loafers,Footwear,177.76,Boston,XL,Purple,Summer,4.1,No,Next Day,None,Yes,25,Bank Transfer,Quarterly
+CUST0887,57,Male,T-Shirt,Clothing,63.59,Chicago,XL,White,Fall,5.0,No,Standard,None,No,17,Debit Card,Weekly
+CUST0888,40,Male,Dress,Clothing,51.39,Dallas,L,Grey,Spring,4.1,No,Standard,None,Yes,20,Credit Card,Monthly
+CUST0889,19,Female,Jacket,Clothing,24.53,San Diego,L,Grey,Summer,4.5,No,Next Day,40%,No,27,Credit Card,Quarterly
+CUST0890,28,Male,Coat,Outerwear,259.43,Philadelphia,XXL,Grey,Winter,4.3,Yes,Express,None,No,1,Cash,Weekly
+CUST0891,43,Male,Shorts,Clothing,37.04,New York,XXL,Purple,Summer,4.9,No,Standard,10%,Yes,12,PayPal,Rarely
+CUST0892,57,Male,Raincoat,Outerwear,194.23,Phoenix,XL,Yellow,Fall,3.9,No,Express,10%,No,30,PayPal,Bi-Weekly
+CUST0893,18,Female,Windbreaker,Outerwear,185.97,Chicago,XXL,Pink,Summer,3.9,Yes,Next Day,None,No,11,PayPal,Weekly
+CUST0894,53,Male,Boots,Footwear,216.9,Boston,XL,Grey,Summer,4.6,No,Express,20%,No,24,PayPal,Monthly
+CUST0895,55,Female,Dress,Clothing,172.37,Chicago,M,Black,Summer,4.1,No,Free Shipping,40%,No,8,Credit Card,Rarely
+CUST0896,68,Male,Skirt,Clothing,173.25,San Diego,L,Red,Winter,4.8,No,Next Day,None,No,2,Debit Card,Monthly
+CUST0897,67,Female,Flats,Footwear,48.75,Phoenix,S,Green,Summer,4.5,No,Express,None,Yes,20,PayPal,Monthly
+CUST0898,28,Female,T-Shirt,Clothing,163.99,Phoenix,S,White,Spring,2.7,Yes,Express,None,No,25,Cash,Quarterly
+CUST0899,18,Female,Jeans,Clothing,37.77,Philadelphia,XS,White,Spring,3.1,Yes,Next Day,20%,No,6,PayPal,Quarterly
+CUST0900,50,Male,Sweater,Clothing,73.47,Chicago,L,Green,Fall,4.5,No,Next Day,20%,No,17,Credit Card,Bi-Weekly
+CUST0901,55,Male,Dress,Clothing,56.76,Boston,L,White,Summer,3.2,Yes,Standard,10%,Yes,9,Credit Card,Quarterly
+CUST0902,66,Female,Watch,Accessories,85.68,San Diego,XXL,Grey,Spring,4.0,Yes,Express,None,No,6,Debit Card,Monthly
+CUST0903,20,Female,Shorts,Clothing,56.99,Philadelphia,XL,Red,Spring,4.7,Yes,Express,None,No,15,Credit Card,Monthly
+CUST0904,43,Male,Boots,Footwear,129.98,Dallas,L,Green,Summer,2.6,No,Standard,None,Yes,0,PayPal,Rarely
+CUST0905,58,Male,Heels,Footwear,202.63,New York,XL,Red,Summer,3.4,No,Standard,None,Yes,21,Debit Card,Rarely
+CUST0906,46,Male,Loafers,Footwear,176.1,New York,XL,Brown,Summer,3.2,No,Free Shipping,None,No,7,Debit Card,Rarely
+CUST0907,27,Male,Coat,Outerwear,81.94,Seattle,XXL,White,Spring,2.3,No,Free Shipping,None,No,14,Cash,Weekly
+CUST0908,58,Female,Flats,Footwear,77.47,Houston,XL,Yellow,Spring,4.2,No,Next Day,10%,No,18,Bank Transfer,Monthly
+CUST0909,24,Female,Raincoat,Outerwear,73.77,Dallas,XXL,Black,Fall,3.2,No,Free Shipping,40%,No,28,Credit Card,Bi-Weekly
+CUST0910,49,Male,Skirt,Clothing,115.33,Philadelphia,XXL,Red,Fall,4.1,Yes,Standard,40%,No,29,Debit Card,Monthly
+CUST0911,29,Male,Sunglasses,Accessories,20.71,Philadelphia,XXL,Purple,Summer,4.8,No,Free Shipping,20%,Yes,7,Credit Card,Quarterly
+CUST0912,19,Male,Boots,Footwear,169.8,Philadelphia,L,Pink,Winter,2.6,No,Express,20%,Yes,19,PayPal,Rarely
+CUST0913,70,Female,Sweater,Clothing,95.17,Los Angeles,M,Blue,Winter,4.2,No,Next Day,None,Yes,16,PayPal,Monthly
+CUST0914,37,Female,Blazer,Outerwear,289.67,Phoenix,XL,Purple,Winter,3.6,No,Free Shipping,None,Yes,3,Bank Transfer,Monthly
+CUST0915,27,Male,Shorts,Clothing,165.12,Chicago,S,Green,Spring,3.4,No,Next Day,None,Yes,29,Credit Card,Monthly
+CUST0916,56,Female,Shorts,Clothing,146.92,Seattle,XL,Pink,Fall,3.9,No,Free Shipping,10%,No,30,PayPal,Quarterly
+CUST0917,67,Male,T-Shirt,Clothing,165.35,San Diego,L,White,Fall,4.0,No,Express,None,No,1,PayPal,Monthly
+CUST0918,25,Female,Sneakers,Footwear,63.24,New York,XS,Brown,Spring,2.7,No,Free Shipping,None,No,23,Bank Transfer,Monthly
+CUST0919,48,Female,T-Shirt,Clothing,30.23,San Diego,S,Purple,Spring,4.0,No,Express,10%,No,15,Cash,Quarterly
+CUST0920,65,Female,Jacket,Clothing,106.57,New York,XS,Purple,Winter,5.0,Yes,Next Day,None,No,18,Credit Card,Weekly
+CUST0921,34,Male,Hoodie,Clothing,122.02,Chicago,M,Purple,Spring,4.1,No,Free Shipping,40%,No,14,Cash,Bi-Weekly
+CUST0922,66,Male,Raincoat,Outerwear,50.33,New York,XS,White,Spring,2.4,No,Standard,None,Yes,1,Bank Transfer,Bi-Weekly
+CUST0923,54,Female,Sandals,Footwear,144.82,San Diego,S,Green,Winter,4.4,No,Standard,None,No,23,Cash,Monthly
+CUST0924,54,Female,Skirt,Clothing,40.7,San Diego,XL,Black,Fall,2.8,Yes,Express,10%,No,3,Bank Transfer,Quarterly
+CUST0925,53,Male,Jeans,Clothing,94.87,Houston,L,Black,Fall,4.8,No,Express,None,Yes,26,Bank Transfer,Quarterly
+CUST0926,24,Female,Boots,Footwear,145.03,Chicago,L,Red,Fall,4.0,No,Free Shipping,None,No,0,Credit Card,Quarterly
+CUST0927,32,Female,T-Shirt,Clothing,63.53,Houston,M,Grey,Summer,3.5,No,Free Shipping,30%,No,3,Debit Card,Quarterly
+CUST0928,51,Female,Jeans,Clothing,119.37,Los Angeles,XS,Red,Spring,4.2,No,Next Day,10%,No,19,Cash,Bi-Weekly
+CUST0929,33,Male,Flats,Footwear,76.6,Chicago,S,Grey,Fall,2.6,No,Standard,None,No,29,PayPal,Monthly
+CUST0930,38,Male,Jeans,Clothing,121.33,Philadelphia,XL,Blue,Fall,3.6,No,Free Shipping,30%,No,0,Bank Transfer,Monthly
+CUST0931,22,Male,Jacket,Clothing,73.29,Phoenix,XL,Green,Winter,2.3,No,Free Shipping,None,No,3,PayPal,Monthly
+CUST0932,23,Female,Windbreaker,Outerwear,153.79,Phoenix,XS,Grey,Fall,4.8,No,Next Day,None,No,12,Bank Transfer,Rarely
+CUST0933,28,Male,Jeans,Clothing,121.98,Philadelphia,XL,Pink,Spring,4.0,No,Free Shipping,None,No,1,Debit Card,Bi-Weekly
+CUST0934,31,Female,Raincoat,Outerwear,291.83,Dallas,M,Brown,Fall,4.5,Yes,Free Shipping,10%,Yes,16,PayPal,Quarterly
+CUST0935,49,Female,Windbreaker,Outerwear,276.72,Dallas,M,Grey,Spring,3.9,No,Next Day,10%,No,13,Debit Card,Monthly
+CUST0936,65,Female,Flats,Footwear,137.16,New York,M,Blue,Summer,3.3,No,Next Day,20%,No,27,Credit Card,Monthly
+CUST0937,69,Male,Raincoat,Outerwear,117.5,Dallas,XXL,Black,Winter,4.2,No,Next Day,10%,No,28,Debit Card,Monthly
+CUST0938,59,Female,Scarf,Accessories,49.85,Philadelphia,XS,Green,Spring,3.6,Yes,Free Shipping,10%,Yes,8,Bank Transfer,Bi-Weekly
+CUST0939,47,Female,Sweater,Clothing,135.51,Seattle,S,Purple,Summer,3.5,Yes,Next Day,40%,Yes,8,Bank Transfer,Bi-Weekly
+CUST0940,57,Female,Hoodie,Clothing,83.14,San Diego,XL,Black,Winter,4.8,Yes,Free Shipping,30%,No,24,Debit Card,Bi-Weekly
+CUST0941,63,Male,Dress,Clothing,127.02,Philadelphia,XL,Black,Spring,3.3,Yes,Standard,None,No,19,Credit Card,Weekly
+CUST0942,52,Female,Jacket,Clothing,44.11,Phoenix,XL,Purple,Summer,5.0,No,Next Day,None,No,7,Credit Card,Rarely
+CUST0943,44,Female,Flats,Footwear,74.59,Philadelphia,L,Brown,Spring,3.1,No,Standard,None,Yes,9,Debit Card,Bi-Weekly
+CUST0944,59,Female,Belt,Accessories,21.63,Los Angeles,M,White,Fall,4.4,No,Free Shipping,10%,No,29,Debit Card,Monthly
+CUST0945,34,Male,Skirt,Clothing,31.57,Seattle,XL,Brown,Spring,4.5,No,Next Day,None,No,25,Bank Transfer,Quarterly
+CUST0946,27,Female,Scarf,Accessories,46.62,Chicago,S,Brown,Fall,4.5,No,Free Shipping,None,No,23,PayPal,Weekly
+CUST0947,23,Female,Shorts,Clothing,98.07,San Diego,XXL,Red,Spring,3.5,Yes,Standard,None,Yes,13,Bank Transfer,Monthly
+CUST0948,31,Female,Scarf,Accessories,111.77,Dallas,XS,Red,Fall,3.6,Yes,Standard,10%,No,1,PayPal,Monthly
+CUST0949,51,Male,Coat,Outerwear,229.43,Philadelphia,M,White,Summer,2.9,Yes,Standard,10%,Yes,5,Debit Card,Bi-Weekly
+CUST0950,38,Male,Heels,Footwear,107.07,Chicago,XXL,Blue,Summer,4.1,Yes,Express,40%,Yes,16,Bank Transfer,Monthly
+CUST0951,18,Male,Skirt,Clothing,96.97,New York,XS,Green,Summer,3.3,No,Free Shipping,10%,No,24,PayPal,Monthly
+CUST0952,67,Male,Loafers,Footwear,90.09,Phoenix,M,Red,Fall,5.0,No,Free Shipping,None,Yes,16,Debit Card,Bi-Weekly
+CUST0953,63,Female,Sneakers,Footwear,193.09,Boston,L,Blue,Summer,4.1,No,Next Day,None,No,3,PayPal,Quarterly
+CUST0954,27,Male,Coat,Outerwear,192.91,Houston,M,Grey,Spring,3.5,No,Free Shipping,30%,Yes,8,Credit Card,Quarterly
+CUST0955,20,Male,Sneakers,Footwear,96.83,New York,S,Yellow,Spring,4.3,No,Standard,20%,Yes,10,Cash,Monthly
+CUST0956,20,Male,Sunglasses,Accessories,111.45,Seattle,XS,Black,Spring,3.4,Yes,Next Day,10%,No,13,Cash,Monthly
+CUST0957,33,Female,Sandals,Footwear,127.79,Los Angeles,XS,Purple,Fall,4.0,Yes,Free Shipping,20%,Yes,8,Credit Card,Monthly
+CUST0958,55,Female,Heels,Footwear,104.38,Houston,S,Black,Winter,4.1,No,Next Day,None,No,17,Debit Card,Quarterly
+CUST0959,42,Female,Sunglasses,Accessories,129.67,Seattle,L,Brown,Summer,5.0,No,Standard,30%,No,19,Cash,Monthly
+CUST0960,32,Male,Flats,Footwear,196.11,Phoenix,XXL,Green,Summer,4.4,Yes,Next Day,None,No,21,Cash,Bi-Weekly
+CUST0961,42,Female,T-Shirt,Clothing,150.8,Philadelphia,M,Green,Summer,2.3,Yes,Next Day,None,Yes,27,Cash,Weekly
+CUST0962,58,Male,Scarf,Accessories,91.55,Dallas,M,Red,Summer,4.1,No,Standard,None,No,27,Debit Card,Weekly
+CUST0963,55,Male,Scarf,Accessories,80.6,San Diego,XXL,Blue,Summer,4.2,No,Free Shipping,30%,Yes,1,Bank Transfer,Quarterly
+CUST0964,49,Female,Sweater,Clothing,45.74,Seattle,L,Blue,Spring,3.0,No,Express,None,Yes,20,PayPal,Rarely
+CUST0965,40,Female,Skirt,Clothing,163.96,Boston,XXL,Yellow,Summer,3.5,Yes,Standard,None,No,2,Debit Card,Quarterly
+CUST0966,26,Male,Hoodie,Clothing,118.54,Houston,L,Purple,Winter,3.3,Yes,Express,30%,No,2,Credit Card,Bi-Weekly
+CUST0967,49,Male,Shorts,Clothing,155.46,Seattle,XXL,Blue,Fall,3.4,No,Free Shipping,None,No,8,Debit Card,Quarterly
+CUST0968,35,Male,Heels,Footwear,35.65,Los Angeles,S,White,Fall,3.7,Yes,Express,None,No,11,Credit Card,Monthly
+CUST0969,65,Male,Dress,Clothing,91.06,Houston,XS,Grey,Winter,4.6,No,Free Shipping,None,No,22,Debit Card,Monthly
+CUST0970,57,Male,Sweater,Clothing,72.68,Boston,M,Pink,Fall,4.1,No,Standard,None,Yes,21,Bank Transfer,Bi-Weekly
+CUST0971,38,Female,Raincoat,Outerwear,243.29,Phoenix,XS,Grey,Spring,3.6,No,Express,10%,No,7,Debit Card,Bi-Weekly
+CUST0972,24,Female,Heels,Footwear,70.39,Chicago,S,Yellow,Summer,3.2,No,Next Day,None,No,25,PayPal,Weekly
+CUST0973,19,Male,Windbreaker,Outerwear,103.64,Philadelphia,XL,Black,Winter,3.1,No,Standard,None,No,19,Bank Transfer,Bi-Weekly
+CUST0974,20,Female,Sweater,Clothing,89.83,Boston,XL,Red,Spring,2.4,Yes,Express,40%,Yes,15,Debit Card,Quarterly
+CUST0975,34,Female,Blazer,Outerwear,55.59,San Diego,XL,Purple,Winter,4.0,No,Express,None,No,22,Cash,Rarely
+CUST0976,60,Male,Hoodie,Clothing,93.8,New York,XXL,Pink,Winter,2.9,Yes,Free Shipping,10%,No,12,Debit Card,Monthly
+CUST0977,41,Male,Handbag,Accessories,133.39,Boston,XXL,White,Fall,3.4,Yes,Next Day,None,No,5,Credit Card,Monthly
+CUST0978,66,Male,Boots,Footwear,183.79,Boston,S,White,Winter,2.5,No,Express,10%,No,14,PayPal,Quarterly
+CUST0979,22,Male,Sunglasses,Accessories,75.78,Philadelphia,XS,Black,Winter,3.6,Yes,Standard,None,Yes,5,Credit Card,Rarely
+CUST0980,31,Male,Blazer,Outerwear,126.43,Philadelphia,XS,Brown,Winter,2.4,No,Express,None,No,5,Credit Card,Weekly
+CUST0981,18,Male,Flats,Footwear,128.35,San Diego,XXL,Red,Summer,4.0,Yes,Standard,None,No,29,Debit Card,Monthly
+CUST0982,23,Female,Dress,Clothing,141.85,Phoenix,S,Purple,Summer,4.3,No,Next Day,None,Yes,15,PayPal,Bi-Weekly
+CUST0983,23,Male,Jacket,Clothing,89.18,New York,XL,Red,Summer,4.2,No,Standard,None,Yes,16,Credit Card,Monthly
+CUST0984,65,Female,Shorts,Clothing,112.92,San Diego,L,Grey,Winter,3.9,No,Free Shipping,None,Yes,26,Cash,Quarterly
+CUST0985,48,Female,Jeans,Clothing,25.5,Seattle,L,Yellow,Fall,2.8,No,Free Shipping,20%,No,1,Cash,Monthly
+CUST0986,41,Male,Blazer,Outerwear,228.05,Boston,S,Red,Winter,3.5,No,Standard,None,No,22,Credit Card,Monthly
+CUST0987,62,Female,Skirt,Clothing,135.14,Philadelphia,S,White,Fall,3.8,Yes,Next Day,10%,Yes,0,Credit Card,Bi-Weekly
+CUST0988,33,Female,Blazer,Outerwear,73.21,Seattle,XXL,Yellow,Spring,3.5,No,Free Shipping,None,No,24,Debit Card,Monthly
+CUST0989,38,Female,Sweater,Clothing,38.45,Los Angeles,XS,Pink,Spring,3.6,No,Next Day,20%,Yes,18,PayPal,Monthly
+CUST0990,59,Male,Jacket,Clothing,111.43,Seattle,M,White,Winter,3.7,No,Free Shipping,20%,No,26,Debit Card,Quarterly
+CUST0991,30,Female,Jeans,Clothing,144.87,Seattle,XXL,Grey,Spring,3.6,No,Next Day,10%,No,1,PayPal,Bi-Weekly
+CUST0992,35,Female,Jacket,Clothing,164.19,Phoenix,L,Black,Fall,4.2,Yes,Express,None,No,12,PayPal,Bi-Weekly
+CUST0993,62,Female,Sweater,Clothing,159.71,Dallas,XL,Pink,Spring,4.8,No,Express,None,No,25,Debit Card,Monthly
+CUST0994,23,Male,Raincoat,Outerwear,285.12,Los Angeles,S,Purple,Summer,4.4,No,Next Day,None,No,16,Cash,Bi-Weekly
+CUST0995,19,Female,Loafers,Footwear,102.71,Chicago,XS,Purple,Spring,4.7,No,Free Shipping,20%,No,11,Cash,Monthly
+CUST0996,61,Male,Jeans,Clothing,131.05,San Diego,XXL,Blue,Spring,2.2,No,Express,None,Yes,16,Credit Card,Bi-Weekly
+CUST0997,70,Male,T-Shirt,Clothing,173.56,Phoenix,S,Red,Fall,4.1,No,Standard,20%,Yes,14,Debit Card,Bi-Weekly
+CUST0998,57,Male,Skirt,Clothing,164.45,Phoenix,XL,Yellow,Summer,4.2,No,Free Shipping,10%,Yes,7,Credit Card,Monthly
+CUST0999,44,Male,Sunglasses,Accessories,124.47,Los Angeles,XXL,Purple,Summer,4.1,Yes,Next Day,None,Yes,20,PayPal,Bi-Weekly
+CUST1000,23,Male,Shorts,Clothing,106.97,Houston,XS,Grey,Winter,3.6,No,Standard,None,No,7,Bank Transfer,Monthly
